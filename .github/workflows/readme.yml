@@ -27,7 +27,12 @@ jobs:
       - name: write readme
         run: |
           sudo chmod 666 README.md
-          sudo echo "# Leetcode Practice\nThis repository contains the codes for leetcode questions. <br>\nThe questions have been coded using Java. <br>\nEasy:\t `ls Easy | wc -l` Problems\nMedium:\t `ls Medium | wc -l` Problems\nHard:\t `ls Hard | wc -l` Problems" > README.md
+          sudo echo "# Leetcode Practice" > README.md
+          sudo echo "This repository contains the codes for leetcode questions. <br>" >> README.md
+          sudo echo "The questions have been coded using Java. <br>" >> README.md
+          sudo echo "Easy:\t `ls Easy | wc -l` Problems<br>" >> README.md
+          sudo echo "Medium:\t `ls Medium | wc -l` Problems" >> README.md
+          sudo echo "Hard:\t `ls Hard | wc -l` Problems" >> README.md
           cat README.md
       - name: commit readme
         run: |
