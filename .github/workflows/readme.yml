@@ -30,7 +30,7 @@ jobs:
           sudo echo "# Leetcode Practice" > README.md
           sudo echo "This repository contains the codes for leetcode questions. <br>" >> README.md
           sudo echo "The questions have been coded using Java. <br>" >> README.md
-          sudo echo "<table><tr><td>Easy</td><td>`ls Easy | wc -l`</td></tr><tr><td>Medium</td><td>`ls Medium | wc -l`</td></tr><tr><td>Hard</td><td>`ls Hard | wc -l`</td></tr></table>" >> README.md
+          sudo echo "<table><tr><td>Easy</td><td>`ls Easy | wc -l` Problems</td></tr><tr><td>Medium</td><td>`ls Medium | wc -l` Problems</td></tr><tr><td>Hard</td><td>`ls Hard | wc -l` Problems</td></tr></table>" >> README.md
           cat README.md
       - name: commit readme
         run: |
