@@ -1,0 +1,34 @@
+/*
+Problem Name: 15. 3Sum
+Problem Link: https://leetcode.com/problems/3sum/
+*/
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        if(nums.length < 3)
+            return new ArrayList<List<Integer>>();
+        Arrays.sort(nums);
+        int n = nums.length;
+        Set<List<Integer>> set = new HashSet<List<Integer>>();
+        for(int i=0;i<n;i++){
+            int j = i+1, k = n-1;
+            for(;j<k;){
+                int sum = nums[i] + nums[j] + nums[k];
+                if(sum > 0)
+                    k--;
+                else if(sum < 0)
+                    j++;
+                else{
+                    List<Integer> l = new ArrayList<Integer>();
+                    l.add(nums[i]);
+                    l.add(nums[j++]);
+                    l.add(nums[k--]);
+                    set.add(l);
+                    while(j<n && nums[j-1] == nums[j])  j++;
+                    while(k>i && nums[k] == nums[k+1])  k--;
+                }
+            }
+        }
+        List<List<Integer>> list = new ArrayList<List<Integer>>(set);
+        return list;
+    }
+}
