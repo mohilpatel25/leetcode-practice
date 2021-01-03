@@ -27,17 +27,10 @@ class Solution {
                 l2 = l2.next;
             }
         }
-        while(l1 != null){
-            temp.next = l1;
-            temp = temp.next;
-            l1 = l1.next;
-        }
-        while(l2 != null){
+        if(l1 == null)
             temp.next = l2;
-            temp = temp.next;
-            l2 = l2.next;
-        }
-        temp.next = null;
+        if(l2 == null)
+            temp.next = l1;
         return merged.next;
     }
 }
