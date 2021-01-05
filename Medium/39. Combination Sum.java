@@ -12,7 +12,6 @@ class Solution {
     void create(int[] candidates, int target, int index, List<Integer> l, Set<List<Integer>> ans){
         if(target == 0){
             ans.add(new ArrayList(l));
-            System.out.println(ans);
             return;
         }
         int n = candidates.length;
