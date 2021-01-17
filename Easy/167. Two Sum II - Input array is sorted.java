@@ -1,0 +1,18 @@
+/*
+Problem Name: 167. Two Sum II - Input array is sorted
+Problem Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+*/
+class Solution {
+    public int[] twoSum(int[] numbers, int target) {
+        int l = 0, r = numbers.length - 1;
+        for(;l<r;){
+            if(numbers[l] + numbers[r] == target)
+                return new int[]{l+1,r+1};
+            if(numbers[l] + numbers[r] > target)
+                r--;
+            else
+                l++;
+        }
+        return new int[]{-1,-1};
+    }
+}
