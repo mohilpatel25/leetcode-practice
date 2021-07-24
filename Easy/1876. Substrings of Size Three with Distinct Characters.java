@@ -1,0 +1,17 @@
+/*
+Problem Name: 1876. Substrings of Size Three with Distinct Characters
+Problem Link: https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+*/
+class Solution {
+    public int countGoodSubstrings(String s) {
+        int n = s.length(), count = 0;
+        for(int i=0;i<n-2;i++){
+            if(goodString(s.charAt(i), s.charAt(i+1), s.charAt(i+2)))
+                count++;
+        }
+        return count;
+    }
+    static boolean goodString(char a, char b, char c){
+        return (a != b) && (a != c) && (b != c);
+    }
+}
