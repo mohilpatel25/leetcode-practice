@@ -1,0 +1,28 @@
+/*
+Problem Name: 1318. Minimum Flips to Make a OR b Equal to c
+Problem Link: https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+*/
+class Solution {
+    public int minFlips(int a, int b, int c) {
+        int aBit = 0, bBit = 0, cBit = 0, flips = 0;
+        while(a > 0 || b > 0 || c > 0){
+            aBit = a & 1;
+            bBit = b & 1;
+            cBit = c & 1;
+            if((aBit|bBit) != cBit){
+                if(aBit == bBit){
+                    if(cBit == 0)
+                        flips += 2;
+                    else
+                        flips++;
+                }
+                else
+                    flips++;
+            }
+            a >>= 1;
+            b >>= 1;
+            c >>= 1;
+        }
+        return flips;
+    }
+}
