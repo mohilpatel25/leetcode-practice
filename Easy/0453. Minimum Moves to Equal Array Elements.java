@@ -10,7 +10,7 @@ class Solution {
             moves += nums[i] - min;
         return moves;
     }
-    static int minimum(int[] arr){
+    int minimum(int[] arr){
         int min = arr[0], n = arr.length;
         for(int i=1;i<n;i++)
             min = Math.min(min, arr[i]);
