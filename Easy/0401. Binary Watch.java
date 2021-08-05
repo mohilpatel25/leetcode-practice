@@ -2,7 +2,6 @@
 Problem Name: 401. Binary Watch
 Problem Link: https://leetcode.com/problems/binary-watch/
 */
-/**
 class Solution {
     public List<String> readBinaryWatch(int turnedOn) {
         List<String> list = new ArrayList<String>();
@@ -15,7 +14,7 @@ class Solution {
         }
         return list;
     }
-    static int setBits(int n){
+    int setBits(int n){
         int bits = 0;
         while(n>0){
             bits += n&1;
