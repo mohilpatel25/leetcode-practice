@@ -9,7 +9,7 @@ class Solution {
         fill(image, sr, sc, image[sr][sc], newColor);
         return image;
     }
-    static void fill(int[][] img, int r, int c, int oldColor, int newColor){
+    void fill(int[][] img, int r, int c, int oldColor, int newColor){
         if(r < 0 || c < 0 || r >= img.length || c >= img[0].length)
             return;
         if(img[r][c] != oldColor)
