@@ -3,7 +3,7 @@ Problem Name: 1079. Letter Tile Possibilities
 Problem Link: https://leetcode.com/problems/letter-tile-possibilities/
 */
 class Solution {
-    static int count;
+    int count;
     public int numTilePossibilities(String tiles) {
         int n = tiles.length();
         int freq[] = new int[26];
@@ -13,7 +13,7 @@ class Solution {
         countPossibility(freq);
         return count - 1;
     }
-    static void countPossibility(int freq[]){
+    void countPossibility(int freq[]){
         count++;
         for(int i=0;i<26;i++){
             if(freq[i] > 0){

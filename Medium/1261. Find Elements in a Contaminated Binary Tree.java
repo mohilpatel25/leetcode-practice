@@ -29,7 +29,7 @@ class FindElements {
         return set.contains(target);
     }
     
-    private static void recover(TreeNode root, Set<Integer> set){
+    private void recover(TreeNode root, Set<Integer> set){
         if(root == null)
             return;
         set.add(root.val);

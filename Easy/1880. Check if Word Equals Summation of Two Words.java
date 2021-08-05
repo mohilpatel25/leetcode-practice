@@ -6,7 +6,7 @@ class Solution {
     public boolean isSumEqual(String firstWord, String secondWord, String targetWord) {
         return (value(firstWord) + value(secondWord)) == value(targetWord);
     }
-    static int value(String s){
+    int value(String s){
         StringBuilder num = new StringBuilder();
         for(char c: s.toCharArray())
             num.append(c - 'a');

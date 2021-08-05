@@ -21,7 +21,7 @@ class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
         return build(nums, 0, nums.length-1);
     }
-    static TreeNode build(int nums[], int l, int r){
+    TreeNode build(int nums[], int l, int r){
         if(l > r)
             return null;
         if(l == r)
@@ -32,7 +32,7 @@ class Solution {
         root.right = build(nums, index + 1, r);
         return root;
     }
-    static int maxIndex(int nums[], int l, int r){
+    int maxIndex(int nums[], int l, int r){
         int index = l;
         for(int i=l;i<=r;i++){
             if(nums[i] > nums[index])

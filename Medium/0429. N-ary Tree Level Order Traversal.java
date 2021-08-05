@@ -27,7 +27,7 @@ class Solution {
         traverse(root, levels);
         return levels;
     }
-    static void traverse(Node root, List<List<Integer>> levels){
+    void traverse(Node root, List<List<Integer>> levels){
         if(root == null)
             return;
         Queue<Node> queue = new LinkedList<Node>();

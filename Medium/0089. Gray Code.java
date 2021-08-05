@@ -20,12 +20,12 @@ class Solution {
         }
         return ans;
     }
-    static void revCopy(List<String> src, List<String> dest){
+    void revCopy(List<String> src, List<String> dest){
         for(String s: src){
             dest.add(0, s);
         }
     }
-    static List<String> append(List<String> src, String ch){
+    List<String> append(List<String> src, String ch){
         List<String> ret = new ArrayList<String>();
         for(String s: src){
             ret.add(ch + s);

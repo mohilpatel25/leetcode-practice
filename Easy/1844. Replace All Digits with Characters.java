@@ -14,7 +14,7 @@ class Solution {
         }
         return shifted.toString();
     }
-    static char shift(char c, int x){
+    char shift(char c, int x){
         return (char)(((c - 'a') + x%26)%26 + 'a');
     }
 }

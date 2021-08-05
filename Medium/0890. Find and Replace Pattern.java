@@ -12,7 +12,7 @@ class Solution {
         }
         return list;
     }
-    static boolean checkPattern(String word, String pattern){
+    boolean checkPattern(String word, String pattern){
         HashMap<Character, Character> map = new HashMap<Character, Character>();
         Set<Character> set = new HashSet<Character>();
         int n = word.length();

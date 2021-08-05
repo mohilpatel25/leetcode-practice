@@ -25,7 +25,7 @@ class Solution {
         Collections.sort(list);
         return list;
     }
-    static void inorder(TreeNode root, List<Integer> list){
+    void inorder(TreeNode root, List<Integer> list){
         if(root == null)
             return;
         inorder(root.left, list);

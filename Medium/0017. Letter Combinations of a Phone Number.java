@@ -19,7 +19,7 @@ class Solution {
         generate(digits, list, map, "");
         return list;
     }
-    static void generate(String dig, List<String> l, HashMap<Character,char[]> map, String gen){
+    void generate(String dig, List<String> l, HashMap<Character,char[]> map, String gen){
         if(dig.length() == 0){
             l.add(gen);
             return;

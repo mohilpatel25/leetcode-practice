@@ -15,7 +15,7 @@ class Solution {
         }
         return count == 0;
     }
-    static boolean isVowel(char c){
+    boolean isVowel(char c){
         switch(c){
             case 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U':
                 return true;                    

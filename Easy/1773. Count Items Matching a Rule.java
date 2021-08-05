@@ -10,7 +10,7 @@ class Solution {
             return count(items, ruleValue, 1);
         return count(items, ruleValue, 2);
     }
-    static int count(List<List<String>> items, String value, int index){
+    int count(List<List<String>> items, String value, int index){
         int n = items.size(), cnt = 0;
         for(int i=0;i<n;i++){
             if(items.get(i).get(index).equals(value))

@@ -8,7 +8,7 @@ class Solution {
         generate(set, n, "", 0, 0);
         return new ArrayList<String>(set);
     }
-    static void generate(Set<String> l, int n, String par, int open, int close){
+    void generate(Set<String> l, int n, String par, int open, int close){
         if(par.length() == 2*n){
             l.add(par);
             return;

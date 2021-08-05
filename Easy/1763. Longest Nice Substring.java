@@ -18,7 +18,7 @@ class Solution {
         }
         return ans;
     }
-    static boolean niceSubstring(String s){
+    boolean niceSubstring(String s){
         int upper[] = new int[26], lower[] = new int[26];
         for(char c: s.toCharArray()){
             if(c >= 'A' && c <= 'Z')

@@ -18,7 +18,7 @@ class Solution {
             return head;
         return swap(head, k);
     }
-    static ListNode swap(ListNode head, int k){
+    ListNode swap(ListNode head, int k){
         ListNode last = head, nextlast = null;
         int cnt = 0;
         while(cnt < k-1 && last != null){
@@ -37,7 +37,7 @@ class Solution {
         last.next = swap(nextlast, k);
         return head;
     }
-    static ListNode reverse(ListNode head){
+    ListNode reverse(ListNode head){
         ListNode cur = head, next = head, prev = null;
         while(next != null){
             next = cur.next;

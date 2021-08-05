@@ -12,14 +12,14 @@ class Solution {
         }
         return answer;
     }
-    static List<Integer> getList(int[] nums, int l, int r){
+    List<Integer> getList(int[] nums, int l, int r){
         List<Integer> list = new ArrayList<Integer>();
         for(;l<=r;l++)
             list.add(nums[l]);
         Collections.sort(list);
         return list;
     }
-    static boolean checkArithmetic(List<Integer> list){
+    boolean checkArithmetic(List<Integer> list){
         int n = list.size(), diff = list.get(1) - list.get(0);
         for(int i=2;i<n;i++)
             if(list.get(i) - list.get(i-1) != diff)

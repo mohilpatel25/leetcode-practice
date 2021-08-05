@@ -21,7 +21,7 @@ class Solution {
     public int sumEvenGrandparent(TreeNode root) {
         return sumGP(root, new TreeNode(1), new TreeNode(1));
     }
-    static int sumGP(TreeNode root, TreeNode gp, TreeNode p){
+    int sumGP(TreeNode root, TreeNode gp, TreeNode p){
         if(root == null)
             return 0;
         int sum = 0;

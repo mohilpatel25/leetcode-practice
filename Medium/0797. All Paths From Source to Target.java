@@ -10,7 +10,7 @@ class Solution {
         traverse(graph, 0, curPath, paths);
         return paths;
     }
-    static void traverse(int g[][], int curNode, List<Integer> curPath, List<List<Integer>> allPaths){
+    void traverse(int g[][], int curNode, List<Integer> curPath, List<List<Integer>> allPaths){
         int n = g.length;
         if(curNode == n - 1){
             allPaths.add(new ArrayList<>(curPath));

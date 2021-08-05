@@ -18,7 +18,7 @@ class Solution {
         }
         return checkAscending(nums, mid, n-1) && checkAscending(nums, 0, mid-1);
     }
-    static boolean checkAscending(int nums[], int l, int r){
+    boolean checkAscending(int nums[], int l, int r){
         int n = nums.length;
         for(int i=l+1;i<=r;i++){
             if(nums[i - 1] > nums[i])

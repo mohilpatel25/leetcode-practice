@@ -21,7 +21,7 @@ class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
         return buildTree(preorder, 0, preorder.length-1);
     }
-    static TreeNode buildTree(int[] preorder, int l, int r){
+    TreeNode buildTree(int[] preorder, int l, int r){
         if(l > r)
             return null;
         TreeNode root = new TreeNode(preorder[l]);

@@ -10,7 +10,7 @@ class Solution {
         }
         return signFunc(product);
     }
-    static int signFunc(int n){
+    int signFunc(int n){
         if(n > 0)
             return 1;
         if(n < 0)

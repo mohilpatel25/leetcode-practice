@@ -23,7 +23,7 @@ class Solution {
         inorder(root, nodes);
         return buildTree(nodes, 0, nodes.size()-1);
     }
-    static TreeNode buildTree(List<Integer> nodes, int l, int r){
+    TreeNode buildTree(List<Integer> nodes, int l, int r){
         if(l > r)
             return null;
         if(l == r)
@@ -34,7 +34,7 @@ class Solution {
         root.right = buildTree(nodes, rootval+1, r);
         return root;
     }
-    static void inorder(TreeNode root, List<Integer> nodes){
+    void inorder(TreeNode root, List<Integer> nodes){
         if(root == null)
             return;
         inorder(root.left, nodes);

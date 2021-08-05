@@ -25,7 +25,7 @@ class Solution {
         }
         return intervals;
     }
-    static class Interval implements Comparable<Interval>{
+    class Interval implements Comparable<Interval>{
         int start, end;
         Interval(int s, int e){
             start = s;

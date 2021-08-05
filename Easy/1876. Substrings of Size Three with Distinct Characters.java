@@ -11,7 +11,7 @@ class Solution {
         }
         return count;
     }
-    static boolean goodString(char a, char b, char c){
+    boolean goodString(char a, char b, char c){
         return (a != b) && (a != c) && (b != c);
     }
 }

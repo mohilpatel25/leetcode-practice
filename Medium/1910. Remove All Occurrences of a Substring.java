@@ -20,7 +20,7 @@ class Solution {
             answer = stck.pop() + answer;
         return answer.toString();
     }
-    static void remove(Stack<Character> stck, String part){
+    void remove(Stack<Character> stck, String part){
         int len = part.length();
         Stack<Character> temp = new Stack<Character>();
         if(stck.size() < len)

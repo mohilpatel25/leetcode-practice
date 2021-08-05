@@ -12,7 +12,7 @@ class Solution {
         }
         return Collections.max(map.values());
     }
-    static int numCount(int num){
+    int numCount(int num){
         int n = 0;
         while(num > 0){
             n += num%10;
