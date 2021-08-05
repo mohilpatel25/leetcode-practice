@@ -7,7 +7,7 @@ class Solution {
         number = number.replaceAll(" ","").replaceAll("-","");
         return reformat(number);
     }
-    static String reformat(String num){
+    String reformat(String num){
         switch(num.length()){
             case 0,1,2,3:
                 return num;
