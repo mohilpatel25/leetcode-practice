@@ -2,7 +2,6 @@
 Problem Name: 2. Add Two Numbers
 Problem Link: https://leetcode.com/problems/add-two-numbers/
 */
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
