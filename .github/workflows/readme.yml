@@ -24,18 +24,17 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: write readme
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: execute py script
         run: |
-          sudo chmod 666 README.md
-          sudo echo "# Leetcode Practice" > README.md
-          sudo echo "This repository contains the codes for leetcode questions. <br>" >> README.md
-          sudo echo "The questions have been coded using Java. <br>" >> README.md
-          sudo echo "<table><tr><td>Easy</td><td>`ls Easy | wc -l` Problems</td></tr><tr><td>Medium</td><td>`ls Medium | wc -l` Problems</td></tr><tr><td>Hard</td><td>`ls Hard | wc -l` Problems</td></tr></table>" >> README.md
-          cat README.md
+            python updateReadme.py
       - name: commit readme
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -m "readmeupdate"
+          git commit -m "readmeUpdate"
           git push
