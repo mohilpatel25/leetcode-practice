@@ -1,6 +1,7 @@
 /*
 Problem Name: 52. N-Queens II
 Problem Link: https://leetcode.com/problems/n-queens-ii/
+Difficulty: Hard
 */
 class Solution {
     int cnt = 0;

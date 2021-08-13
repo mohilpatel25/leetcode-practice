@@ -1,6 +1,7 @@
 /*
 Problem Name: 36. Valid Sudoku
 Problem Link: https://leetcode.com/problems/valid-sudoku/
+Difficulty: Medium
 */
 class Solution {
     public boolean isValidSudoku(char[][] board) {

@@ -1,6 +1,7 @@
 # Problem Name: 195. Tenth Line
 # Problem Link: https://leetcode.com/problems/tenth-line/
 
+Difficulty: Easy
 # Read from the file file.txt and output the tenth line to stdout.
 input="file.txt"
 i=10

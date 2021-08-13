@@ -1,6 +1,7 @@
 /*
 Problem Name: 1233. Remove Sub-Folders from the Filesystem
 Problem Link: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+Difficulty: Medium
 */
 class Solution {
     public List<String> removeSubfolders(String[] folder) {

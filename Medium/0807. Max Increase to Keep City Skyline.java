@@ -1,6 +1,7 @@
 /*
 Problem Name: 807. Max Increase to Keep City Skyline
 Problem Link: https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+Difficulty: Medium
 */
 class Solution {
     public int maxIncreaseKeepingSkyline(int[][] grid) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 812. Largest Triangle Area
 Problem Link: https://leetcode.com/problems/largest-triangle-area/
+Difficulty: Easy
 */
 class Solution {
     public double largestTriangleArea(int[][] points) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 22. Generate Parentheses
 Problem Link: https://leetcode.com/problems/generate-parentheses/
+Difficulty: Medium
 */
 class Solution {
     public List<String> generateParenthesis(int n) {

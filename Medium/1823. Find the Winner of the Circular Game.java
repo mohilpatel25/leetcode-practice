@@ -1,6 +1,7 @@
 /*
 Problem Name: 1823. Find the Winner of the Circular Game
 Problem Link: https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+Difficulty: Medium
 */
 class Solution {
     public int findTheWinner(int n, int k) {

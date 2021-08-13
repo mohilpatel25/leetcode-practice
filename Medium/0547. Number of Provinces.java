@@ -1,6 +1,7 @@
 /*
 Problem Name: 547. Number of Provinces
 Problem Link: https://leetcode.com/problems/number-of-provinces/
+Difficulty: Medium
 */
 class Solution {
     public int findCircleNum(int[][] isConnected) {

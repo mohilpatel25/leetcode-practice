@@ -1,6 +1,7 @@
 /*
 Problem Name: 1005. Maximize Sum Of Array After K Negations
 Problem Link: https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+Difficulty: Easy
 */
 class Solution {
     public int largestSumAfterKNegations(int[] nums, int k) {

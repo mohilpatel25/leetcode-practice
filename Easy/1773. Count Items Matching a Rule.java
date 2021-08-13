@@ -1,6 +1,7 @@
 /*
 Problem Name: 1773. Count Items Matching a Rule
 Problem Link: https://leetcode.com/problems/count-items-matching-a-rule/
+Difficulty: Easy
 */
 class Solution {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {

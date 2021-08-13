@@ -1,6 +1,7 @@
 /*
 Problem Name: 1656. Design an Ordered Stream
 Problem Link: https://leetcode.com/problems/design-an-ordered-stream/
+Difficulty: Easy
 */
 class OrderedStream {
     int ptr;

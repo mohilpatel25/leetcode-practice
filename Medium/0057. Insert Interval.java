@@ -1,6 +1,7 @@
 /*
 Problem Name: 57. Insert Interval
 Problem Link: https://leetcode.com/problems/insert-interval/
+Difficulty: Medium
 */
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {

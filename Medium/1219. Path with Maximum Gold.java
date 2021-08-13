@@ -1,6 +1,7 @@
 /*
 Problem Name: 1219. Path with Maximum Gold
 Problem Link: https://leetcode.com/problems/path-with-maximum-gold/
+Difficulty: Medium
 */
 class Solution {
     public int getMaximumGold(int[][] grid) {

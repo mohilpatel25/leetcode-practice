@@ -1,6 +1,7 @@
 /*
 Problem Name: 1663. Smallest String With A Given Numeric Value
 Problem Link: https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+Difficulty: Medium
 */
 class Solution {
     public String getSmallestString(int n, int k) {

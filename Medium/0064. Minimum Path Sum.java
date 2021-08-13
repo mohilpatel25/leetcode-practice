@@ -1,6 +1,7 @@
 /*
 Problem Name: 64. Minimum Path Sum
 Problem Link: https://leetcode.com/problems/minimum-path-sum/
+Difficulty: Medium
 */
 class Solution {
     public int minPathSum(int[][] grid) {

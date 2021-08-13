@@ -1,6 +1,7 @@
 /*
 Problem Name: 1222. Queens That Can Attack the King
 Problem Link: https://leetcode.com/problems/queens-that-can-attack-the-king/
+Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> queensAttacktheKing(int[][] queens, int[] king) {

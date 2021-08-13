@@ -1,6 +1,7 @@
 /*
 Problem Name: 41. First Missing Positive
 Problem Link: https://leetcode.com/problems/first-missing-positive/
+Difficulty: Hard
 */
 class Solution {
     public int firstMissingPositive(int[] nums) {

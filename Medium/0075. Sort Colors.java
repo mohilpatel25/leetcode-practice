@@ -1,6 +1,7 @@
 /*
 Problem Name: 75. Sort Colors
 Problem Link: https://leetcode.com/problems/sort-colors/
+Difficulty: Medium
 */
 class Solution {
     public void sortColors(int[] nums) {

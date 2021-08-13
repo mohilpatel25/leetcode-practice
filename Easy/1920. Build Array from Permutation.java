@@ -1,6 +1,7 @@
 /*
 Problem Name: 1920. Build Array from Permutation
 Problem Link: https://leetcode.com/problems/build-array-from-permutation/
+Difficulty: Easy
 */
 class Solution {
     public int[] buildArray(int[] nums) {

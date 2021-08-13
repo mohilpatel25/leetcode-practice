@@ -1,6 +1,7 @@
 /*
 Problem Name: 1668. Maximum Repeating Substring
 Problem Link: https://leetcode.com/problems/maximum-repeating-substring/
+Difficulty: Easy
 */
 class Solution {
     public int maxRepeating(String sequence, String word) {

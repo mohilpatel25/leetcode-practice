@@ -1,6 +1,7 @@
 /*
 Problem Name: 1332. Remove Palindromic Subsequences
 Problem Link: https://leetcode.com/problems/remove-palindromic-subsequences/
+Difficulty: Easy
 */
 class Solution {
     public int removePalindromeSub(String s) {

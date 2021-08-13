@@ -1,6 +1,7 @@
 /*
 Problem Name: 973. K Closest Points to Origin
 Problem Link: https://leetcode.com/problems/k-closest-points-to-origin/
+Difficulty: Medium
 */
 class Solution {
     public int[][] kClosest(int[][] points, int k) {

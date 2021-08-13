@@ -1,6 +1,7 @@
 /*
 Problem Name: 733. Flood Fill
 Problem Link: https://leetcode.com/problems/flood-fill/
+Difficulty: Easy
 */
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {

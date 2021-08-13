@@ -1,6 +1,7 @@
 /*
 Problem Name: 172. Factorial Trailing Zeroes
 Problem Link: https://leetcode.com/problems/factorial-trailing-zeroes/
+Difficulty: Easy
 */
 class Solution {
     public int trailingZeroes(int n) {

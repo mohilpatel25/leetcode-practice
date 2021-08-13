@@ -1,6 +1,7 @@
 /*
 Problem Name: 86. Partition List
 Problem Link: https://leetcode.com/problems/partition-list/
+Difficulty: Medium
 */
 /**
  * Definition for singly-linked list.

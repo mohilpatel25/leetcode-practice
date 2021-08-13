@@ -1,6 +1,7 @@
 /*
 Problem Name: 66. Plus One
 Problem Link: https://leetcode.com/problems/plus-one/
+Difficulty: Easy
 */
 class Solution {
     public int[] plusOne(int[] digits) {

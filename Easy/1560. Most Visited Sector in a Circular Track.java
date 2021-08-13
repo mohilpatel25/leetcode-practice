@@ -1,6 +1,7 @@
 /*
 Problem Name: 1560. Most Visited Sector in a Circular Track
 Problem Link: https://leetcode.com/problems/most-visited-sector-in-a-circular-track/
+Difficulty: Easy
 */
 class Solution {
     public List<Integer> mostVisited(int n, int[] rounds) {

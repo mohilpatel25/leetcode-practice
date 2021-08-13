@@ -1,6 +1,7 @@
 /*
 Problem Name: 1752. Check if Array Is Sorted and Rotated
 Problem Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+Difficulty: Easy
 */
 class Solution {
     public boolean check(int[] nums) {

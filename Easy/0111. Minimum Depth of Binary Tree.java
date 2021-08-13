@@ -1,6 +1,7 @@
 /*
 Problem Name: 111. Minimum Depth of Binary Tree
 Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

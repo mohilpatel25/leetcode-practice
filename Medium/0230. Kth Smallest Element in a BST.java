@@ -1,6 +1,7 @@
 /*
 Problem Name: 230. Kth Smallest Element in a BST
 Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

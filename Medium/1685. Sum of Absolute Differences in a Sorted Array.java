@@ -1,6 +1,7 @@
 /*
 Problem Name: 1685. Sum of Absolute Differences in a Sorted Array
 Problem Link: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+Difficulty: Medium
 */
 class Solution {
     public int[] getSumAbsoluteDifferences(int[] nums) {

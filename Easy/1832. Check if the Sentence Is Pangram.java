@@ -1,6 +1,7 @@
 /*
 Problem Name: 1832. Check if the Sentence Is Pangram
 Problem Link: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+Difficulty: Easy
 */
 class Solution {
     public boolean checkIfPangram(String sentence) {

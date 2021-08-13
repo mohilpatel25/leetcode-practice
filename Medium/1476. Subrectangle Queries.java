@@ -1,6 +1,7 @@
 /*
 Problem Name: 1476. Subrectangle Queries
 Problem Link: https://leetcode.com/problems/subrectangle-queries/
+Difficulty: Medium
 */
 class SubrectangleQueries {
     int rectangle[][];

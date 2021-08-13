@@ -1,6 +1,7 @@
 /*
 Problem Name: 1748. Sum of Unique Elements
 Problem Link: https://leetcode.com/problems/sum-of-unique-elements/
+Difficulty: Easy
 */
 class Solution {
     public int sumOfUnique(int[] nums) {

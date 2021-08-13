@@ -1,6 +1,7 @@
 /*
 Problem Name: 45. Jump Game II
 Problem Link: https://leetcode.com/problems/jump-game-ii/
+Difficulty: Hard
 */
 class Solution {
     public int jump(int[] nums) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 155. Min Stack
 Problem Link: https://leetcode.com/problems/min-stack/
+Difficulty: Easy
 */
 class MinStack {
     Stack<Integer> st, min;

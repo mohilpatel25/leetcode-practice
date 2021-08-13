@@ -1,6 +1,7 @@
 /*
 Problem Name: 70. Climbing Stairs
 Problem Link: https://leetcode.com/problems/climbing-stairs/
+Difficulty: Easy
 */
 class Solution {
     public int climbStairs(int n) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 1796. Second Largest Digit in a String
 Problem Link: https://leetcode.com/problems/second-largest-digit-in-a-string/
+Difficulty: Easy
 */
 class Solution {
     public int secondHighest(String s) {

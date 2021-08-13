@@ -1,6 +1,7 @@
 /*
 Problem Name: 1742. Maximum Number of Balls in a Box
 Problem Link: https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+Difficulty: Easy
 */
 class Solution {
     public int countBalls(int lowLimit, int highLimit) {

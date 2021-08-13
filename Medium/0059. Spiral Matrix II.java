@@ -1,6 +1,7 @@
 /*
 Problem Name: 59. Spiral Matrix II
 Problem Link: https://leetcode.com/problems/spiral-matrix-ii/
+Difficulty: Medium
 */
 class Solution {
     public int[][] generateMatrix(int n) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 217. Contains Duplicate
 Problem Link: https://leetcode.com/problems/contains-duplicate/
+Difficulty: Easy
 */
 class Solution {
     public boolean containsDuplicate(int[] nums) {

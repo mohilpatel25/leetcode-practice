@@ -1,6 +1,7 @@
 /*
 Problem Name: 1817. Finding the Users Active Minutes
 Problem Link: https://leetcode.com/problems/finding-the-users-active-minutes/
+Difficulty: Medium
 */
 class Solution {
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {

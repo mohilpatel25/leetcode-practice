@@ -1,6 +1,7 @@
 /*
 Problem Name: 72. Edit Distance
 Problem Link: https://leetcode.com/problems/edit-distance/
+Difficulty: Hard
 */
 class Solution {
     public int minDistance(String word1, String word2) {

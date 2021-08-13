@@ -1,6 +1,7 @@
 /*
 Problem Name: 9. Palindrome Number
 Problem Link: https://leetcode.com/problems/palindrome-number/
+Difficulty: Easy
 */
 class Solution {
     public boolean isPalindrome(int x) {

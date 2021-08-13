@@ -1,6 +1,7 @@
 /*
 Problem Name: 1935. Maximum Number of Words You Can Type
 Problem Link: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+Difficulty: Easy
 */
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {

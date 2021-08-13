@@ -1,6 +1,7 @@
 /*
 Problem Name: 1763. Longest Nice Substring
 Problem Link: https://leetcode.com/problems/longest-nice-substring/
+Difficulty: Easy
 */
 class Solution {
     public String longestNiceSubstring(String s) {

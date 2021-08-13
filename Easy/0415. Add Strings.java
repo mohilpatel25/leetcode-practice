@@ -1,6 +1,7 @@
 /*
 Problem Name: 415. Add Strings
 Problem Link: https://leetcode.com/problems/add-strings/
+Difficulty: Easy
 */
 class Solution {
     public String addStrings(String num1, String num2) {

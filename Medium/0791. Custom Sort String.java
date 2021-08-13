@@ -1,6 +1,7 @@
 /*
 Problem Name: 791. Custom Sort String
 Problem Link: https://leetcode.com/problems/custom-sort-string/
+Difficulty: Medium
 */
 class Solution {
     int priority[];

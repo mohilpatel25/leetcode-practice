@@ -1,6 +1,7 @@
 /*
 Problem Name: 110. Balanced Binary Tree
 Problem Link: https://leetcode.com/problems/balanced-binary-tree/
+Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

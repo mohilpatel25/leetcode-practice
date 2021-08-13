@@ -1,6 +1,7 @@
 /*
 Problem Name: 3. Longest Substring Without Repeating Characters
 Problem Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Difficulty: Medium
 */
 class Solution {
     public int lengthOfLongestSubstring(String s) {

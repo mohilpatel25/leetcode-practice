@@ -1,6 +1,7 @@
 /*
 Problem Name: 190. Reverse Bits
 Problem Link: https://leetcode.com/problems/reverse-bits/
+Difficulty: Easy
 */
 public class Solution {
     // you need treat n as an unsigned value

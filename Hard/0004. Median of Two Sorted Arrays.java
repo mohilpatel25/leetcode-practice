@@ -1,6 +1,7 @@
 /*
 Problem Name: 4. Median of Two Sorted Arrays
 Problem List: https://leetcode.com/problems/median-of-two-sorted-arrays/
+Difficulty: Hard
 */
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

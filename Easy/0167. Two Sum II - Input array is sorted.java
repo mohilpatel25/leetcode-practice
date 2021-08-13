@@ -1,6 +1,7 @@
 /*
 Problem Name: 167. Two Sum II - Input array is sorted
 Problem Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+Difficulty: Easy
 */
 class Solution {
     public int[] twoSum(int[] numbers, int target) {

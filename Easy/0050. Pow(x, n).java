@@ -1,6 +1,7 @@
 /*
 Problem Name: 50. Pow(x, n)
 Problem Link: https://leetcode.com/problems/powx-n/
+Difficulty: Easy
 */
 class Solution {
     public double myPow(double x, int n) {

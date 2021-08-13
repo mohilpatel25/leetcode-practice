@@ -1,6 +1,7 @@
 /*
 Problem Name: 6. ZigZag Conversion
 Problem Link: https://leetcode.com/problems/zigzag-conversion/
+Difficulty: Medium
 */
 class Solution {
     public String convert(String s, int numRows) {

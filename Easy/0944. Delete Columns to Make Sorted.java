@@ -1,6 +1,7 @@
 /*
 Problem Name: 944. Delete Columns to Make Sorted
 Problem Link: https://leetcode.com/problems/delete-columns-to-make-sorted/
+Difficulty: Easy
 */
 class Solution {
     public int minDeletionSize(String[] strs) {

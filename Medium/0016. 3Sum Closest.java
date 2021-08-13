@@ -1,6 +1,7 @@
 /*
 Problem Name: 16. 3Sum Closest
 Problem Link: https://leetcode.com/problems/3sum-closest/
+Difficulty: Medium
 */
 class Solution {
     public int threeSumClosest(int[] nums, int target) {

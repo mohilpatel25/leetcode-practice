@@ -1,6 +1,7 @@
 /*
 Problem Name: 58. Length of Last Word
 Problem Link: https://leetcode.com/problems/length-of-last-word/
+Difficulty: Easy
 */
 class Solution {
     public int lengthOfLastWord(String s) {

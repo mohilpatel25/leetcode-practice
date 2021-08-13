@@ -1,6 +1,7 @@
 /*
 Problem Name: 1357. Apply Discount Every n Orders
 Problem Link: https://leetcode.com/problems/apply-discount-every-n-orders/
+Difficulty: Medium
 */
 class Cashier {
     int customerNo, n;

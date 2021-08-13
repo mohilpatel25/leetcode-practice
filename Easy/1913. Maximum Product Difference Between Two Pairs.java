@@ -1,6 +1,7 @@
 /*
 Problem Name: 1913. Maximum Product Difference Between Two Pairs
 Problem Link: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+Difficulty: Easy
 */
 class Solution {
     public int maxProductDifference(int[] nums) {

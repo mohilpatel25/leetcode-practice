@@ -1,6 +1,7 @@
 /*
 Problem Name: 204. Count Primes
 Problem Link: https://leetcode.com/problems/count-primes/
+Difficulty: Easy
 */
 class Solution {
     public int countPrimes(int n) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 1161. Maximum Level Sum of a Binary Tree
 Problem Link: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

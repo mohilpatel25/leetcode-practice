@@ -1,6 +1,7 @@
 /*
 Problem Name: 107. Binary Tree Level Order Traversal II
 Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

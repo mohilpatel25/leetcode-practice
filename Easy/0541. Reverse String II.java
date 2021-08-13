@@ -1,6 +1,7 @@
 /*
 Problem Name: 541. Reverse String II
 Problem Link: https://leetcode.com/problems/reverse-string-ii/
+Difficulty: Easy
 */
 class Solution {
     public String reverseStr(String s, int k) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 62. Unique Paths
 Problem Link: https://leetcode.com/problems/unique-paths/
+Difficulty: Medium
 */
 class Solution {
     public int uniquePaths(int m, int n) {

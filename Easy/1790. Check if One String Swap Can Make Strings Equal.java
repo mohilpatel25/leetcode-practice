@@ -1,6 +1,7 @@
 /*
 Problem Name: 1790. Check if One String Swap Can Make Strings Equal
 Problem Link: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+Difficulty: Easy
 */
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {

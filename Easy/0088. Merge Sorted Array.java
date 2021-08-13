@@ -1,6 +1,7 @@
 /*
 Problem Name: 88. Merge Sorted Array
 Problem Link: https://leetcode.com/problems/merge-sorted-array/
+Difficulty: Easy
 */
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

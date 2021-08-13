@@ -1,6 +1,7 @@
 /*
 Problem Name: 42. Trapping Rain Water
 Problem Link: https://leetcode.com/problems/trapping-rain-water/
+Difficulty: Hard
 */
 class Solution {
     public int trap(int[] height) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 228. Summary Ranges
 Problem Link: https://leetcode.com/problems/summary-ranges/
+Difficulty: Easy
 */
 class Solution {
     public List<String> summaryRanges(int[] nums) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 1700. Number of Students Unable to Eat Lunch
 Problem Link: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+Difficulty: Easy
 */
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {

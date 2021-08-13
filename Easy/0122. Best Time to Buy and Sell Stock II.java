@@ -1,6 +1,7 @@
 /*
 Problem Name: 122. Best Time to Buy and Sell Stock II
 Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+Difficulty: Easy
 */
 class Solution {
     public int maxProfit(int[] prices) {

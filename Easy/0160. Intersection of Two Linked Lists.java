@@ -1,6 +1,7 @@
 /*
 Problem Name: 160. Intersection of Two Linked Lists
 Problem Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
+Difficulty: Easy
 */
 /**
  * Definition for singly-linked list.

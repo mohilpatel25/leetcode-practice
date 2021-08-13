@@ -1,6 +1,7 @@
 /*
 Problem Name: 79. Word Search
 Problem Link: https://leetcode.com/problems/word-search/
+Difficulty: Medium
 */
 class Solution {
     public boolean exist(char[][] board, String word) {

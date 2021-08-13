@@ -1,6 +1,7 @@
 /*
 Problem Name: 841. Keys and Rooms
 Problem Link: https://leetcode.com/problems/keys-and-rooms/
+Difficulty: Medium
 */
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {

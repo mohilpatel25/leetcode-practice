@@ -1,6 +1,7 @@
 /*
 Problem Name: 20. Valid Parentheses
 Problem Link: https://leetcode.com/problems/valid-parentheses/
+Difficulty: Easy
 */
 class Solution {
     public boolean isValid(String s) {

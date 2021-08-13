@@ -1,6 +1,7 @@
 /*
 Problem Name: 594. Longest Harmonious Subsequence
 Problem Link: https://leetcode.com/problems/longest-harmonious-subsequence/
+Difficulty: Easy
 */
 class Solution {
     public int findLHS(int[] nums) {

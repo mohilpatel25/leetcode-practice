@@ -1,6 +1,7 @@
 /*
 Problem Name: 40. Combination Sum II
 Problem Link: https://leetcode.com/problems/combination-sum-ii/
+Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {

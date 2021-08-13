@@ -1,6 +1,7 @@
 /*
 Problem Name: 763. Partition Labels
 Problem Link: https://leetcode.com/problems/partition-labels/
+Difficulty: Medium
 */
 class Solution {
     public List<Integer> partitionLabels(String s) {

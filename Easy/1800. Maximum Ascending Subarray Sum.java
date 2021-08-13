@@ -1,6 +1,7 @@
 /*
 Problem Name: 1800. Maximum Ascending Subarray Sum
 Problem Link: https://leetcode.com/problems/maximum-ascending-subarray-sum/
+Difficulty: Easy
 */
 class Solution {
     public int maxAscendingSum(int[] nums) {

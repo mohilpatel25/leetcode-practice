@@ -1,6 +1,7 @@
 /*
 Problem Name: 202. Happy Number
 Problem Link: https://leetcode.com/problems/happy-number/
+Difficulty: Easy
 */
 class Solution {
     public boolean isHappy(int n) {

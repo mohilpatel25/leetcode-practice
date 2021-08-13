@@ -1,6 +1,7 @@
 /*
 Problem Name: 797. All Paths From Source to Target
 Problem Link: https://leetcode.com/problems/all-paths-from-source-to-target/
+Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {

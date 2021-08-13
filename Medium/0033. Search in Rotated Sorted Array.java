@@ -1,6 +1,7 @@
 /*
 Problem Name: 33. Search in Rotated Sorted Array
 Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+Difficulty: Medium
 */
 class Solution {
     public int search(int[] nums, int target) {

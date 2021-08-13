@@ -1,6 +1,7 @@
 /*
 Problem Name: 89. Gray Code
 Problem Link: https://leetcode.com/problems/gray-code/
+Difficulty: Medium
 */
 class Solution {
     public List<Integer> grayCode(int n) {

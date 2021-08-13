@@ -1,6 +1,7 @@
 /*
 Problem Name: 84. Largest Rectangle in Histogram
 Problem Link: https://leetcode.com/problems/largest-rectangle-in-histogram/
+Difficulty: Hard
 */
 class Solution {
     public int largestRectangleArea(int[] heights) {

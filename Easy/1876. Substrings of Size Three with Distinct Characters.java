@@ -1,6 +1,7 @@
 /*
 Problem Name: 1876. Substrings of Size Three with Distinct Characters
 Problem Link: https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+Difficulty: Easy
 */
 class Solution {
     public int countGoodSubstrings(String s) {

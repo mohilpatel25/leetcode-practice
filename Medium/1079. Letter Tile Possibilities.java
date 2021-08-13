@@ -1,6 +1,7 @@
 /*
 Problem Name: 1079. Letter Tile Possibilities
 Problem Link: https://leetcode.com/problems/letter-tile-possibilities/
+Difficulty: Medium
 */
 class Solution {
     int count;

@@ -1,6 +1,7 @@
 /*
 Problem Name: 1254. Number of Closed Islands
 Problem Link: https://leetcode.com/problems/number-of-closed-islands/
+Difficulty: Medium
 */
 class Solution {
     public int closedIsland(int[][] grid) {

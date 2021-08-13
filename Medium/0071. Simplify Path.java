@@ -1,6 +1,7 @@
 /*
 Problem Name: 71. Simplify Path
 Problem Link: https://leetcode.com/problems/simplify-path/
+Difficulty: Medium
 */
 class Solution {
     public String simplifyPath(String path) {

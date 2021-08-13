@@ -1,6 +1,7 @@
 /*
 Problem Name: 76. Minimum Window Substring
 Problem Link: https://leetcode.com/problems/minimum-window-substring/
+Difficulty: Hard
 */
 class Solution {
     public String minWindow(String s, String t) {

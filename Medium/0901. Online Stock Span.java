@@ -1,6 +1,7 @@
 /*
 Problem Name: 901. Online Stock Span
 Problem Link: https://leetcode.com/problems/online-stock-span/
+Difficulty: Medium
 */
 class StockSpanner {
     Stack<Pair<Integer,Integer>> stck;

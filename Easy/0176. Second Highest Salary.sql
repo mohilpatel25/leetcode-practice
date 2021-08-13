@@ -1,6 +1,7 @@
 /*
 Problem Name: 176. Second Highest Salary
 Problem Link: https://leetcode.com/problems/second-highest-salary/
+Difficulty: Easy
 */
 # Write your MySQL query statement below
 

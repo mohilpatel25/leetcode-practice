@@ -1,6 +1,7 @@
 /*
 Problem Name: 1877. Minimize Maximum Pair Sum in Array
 Problem Link: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+Difficulty: Medium
 */
 class Solution {
     public int minPairSum(int[] nums) {

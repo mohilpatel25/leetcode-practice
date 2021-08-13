@@ -1,6 +1,7 @@
 /*
 Problem Name: 29. Divide Two Integers
 Problem Link: https://leetcode.com/problems/divide-two-integers/
+Difficulty: Medium
 */
 class Solution {
     public int divide(int dividend, int divisor) {

@@ -1,6 +1,7 @@
 /*
 Problem Name: 196. Delete Duplicate Emails
 Problem Link: https://leetcode.com/problems/delete-duplicate-emails/
+Difficulty: Easy
 */
 
 # Write your MySQL query statement below
