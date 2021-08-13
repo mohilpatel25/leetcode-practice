@@ -1,7 +1,6 @@
 /*
 Problem Name: 100. Same Tree
 Problem Link: https://leetcode.com/problems/same-tree/
-Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

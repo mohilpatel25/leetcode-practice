@@ -1,7 +1,6 @@
 /*
 Problem Name: 1880. Check if Word Equals Summation of Two Words
 Problem Link: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
-Difficulty: Easy
 */
 class Solution {
     public boolean isSumEqual(String firstWord, String secondWord, String targetWord) {

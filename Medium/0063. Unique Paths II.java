@@ -1,7 +1,6 @@
 /*
 Problem Name: 63. Unique Paths II
 Problem Link: https://leetcode.com/problems/unique-paths-ii/
-Difficulty: Medium
 */
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {

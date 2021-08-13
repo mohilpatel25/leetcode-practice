@@ -1,7 +1,6 @@
 /*
 Problem Name: 861. Score After Flipping Matrix
 Problem Link: https://leetcode.com/problems/score-after-flipping-matrix/
-Difficulty: Medium
 */
 class Solution {
     public int matrixScore(int[][] grid) {

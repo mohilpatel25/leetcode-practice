@@ -1,7 +1,6 @@
 /*
 Problem Name: 697. Degree of an Array
 Problem Link: https://leetcode.com/problems/degree-of-an-array/
-Difficulty: Easy
 */
 class Solution {
     public int findShortestSubArray(int[] nums) {

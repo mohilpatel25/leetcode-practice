@@ -1,7 +1,6 @@
 /*
 Problem Name: 51. N-Queens
 Problem Link: https://leetcode.com/problems/n-queens/
-Difficulty: Hard
 */
 class Solution {
     public List<List<String>> solveNQueens(int n) {

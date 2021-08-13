@@ -1,7 +1,6 @@
 /*
 Problem Name: 101. Symmetric Tree
 Problem Link: https://leetcode.com/problems/symmetric-tree/
-Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

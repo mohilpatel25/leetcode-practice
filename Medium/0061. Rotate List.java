@@ -1,7 +1,6 @@
 /*
 Problem Name: 61. Rotate List
 Problem Link: https://leetcode.com/problems/rotate-list/
-Difficulty: Medium
 */
 /**
  * Definition for singly-linked list.

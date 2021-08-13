@@ -1,7 +1,6 @@
 /*
 Problem Name: 1282. Group the People Given the Group Size They Belong To
 Problem Link: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> groupThePeople(int[] groupSizes) {

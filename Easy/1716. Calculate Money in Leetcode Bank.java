@@ -1,7 +1,6 @@
 /*
 Problem Name: 1716. Calculate Money in Leetcode Bank
 Problem Link: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
-Difficulty: Easy
 */
 class Solution {
     public int totalMoney(int n) {

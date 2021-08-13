@@ -1,7 +1,6 @@
 /*
 Problem Name: 1829. Maximum XOR for Each Query
 Problem Link: https://leetcode.com/problems/maximum-xor-for-each-query/
-Difficulty: Medium
 */
 class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {

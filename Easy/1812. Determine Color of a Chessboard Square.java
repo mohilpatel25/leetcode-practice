@@ -1,7 +1,6 @@
 /*
 Problem Name: 1812. Determine Color of a Chessboard Square
 Problem Link: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
-Difficulty: Easy
 */
 class Solution {
     public boolean squareIsWhite(String coordinates) {

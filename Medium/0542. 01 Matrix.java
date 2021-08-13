@@ -1,7 +1,6 @@
 /*
 Problem Name: 542. 01 Matrix
 Problem Link: https://leetcode.com/problems/01-matrix/
-Difficulty: Medium
 */
 class Solution {
     public int[][] updateMatrix(int[][] mat) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 1805. Number of Different Integers in a String
 Problem Link: https://leetcode.com/problems/number-of-different-integers-in-a-string/
-Difficulty: Easy
 */
 class Solution {
     public int numDifferentIntegers(String word) {

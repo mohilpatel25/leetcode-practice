@@ -1,7 +1,6 @@
 /*
 Problem Name: 23. Merge k Sorted Lists
 Problem Link: https://leetcode.com/problems/merge-k-sorted-lists/
-Difficulty: Hard
 */
 /**
  * Definition for singly-linked list.

@@ -1,7 +1,6 @@
 /*
 Problem Name: 60. Permutation Sequence
 Problem Link: https://leetcode.com/problems/permutation-sequence/
-Difficulty: Hard
 */
 class Solution {
     String ans = "";

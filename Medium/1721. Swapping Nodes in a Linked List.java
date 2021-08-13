@@ -1,7 +1,6 @@
 /*
 Problem Name: 1721. Swapping Nodes in a Linked List
 Problem Link: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
-Difficulty: Medium
 */
 /**
  * Definition for singly-linked list.

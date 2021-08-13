@@ -1,7 +1,6 @@
 /*
 Problem Name: 11. Container With Most Water
 Problem Link: https://leetcode.com/problems/container-with-most-water/
-Difficulty: Medium
 */
 class Solution {
     public int maxArea(int[] height) {

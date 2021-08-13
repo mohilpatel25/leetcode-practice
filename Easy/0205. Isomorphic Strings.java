@@ -1,7 +1,6 @@
 /*
 Problem Name: 205. Isomorphic Strings
 Problem Link: https://leetcode.com/problems/isomorphic-strings/
-Difficulty: Easy
 */
 class Solution {
     public boolean isIsomorphic(String s, String t) {

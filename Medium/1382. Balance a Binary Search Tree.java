@@ -1,7 +1,6 @@
 /*
 Problem Name: 1382. Balance a Binary Search Tree
 Problem Link: https://leetcode.com/problems/balance-a-binary-search-tree/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

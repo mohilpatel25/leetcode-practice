@@ -1,7 +1,6 @@
 /*
 Problem Name: 219. Contains Duplicate II
 Problem Link: https://leetcode.com/problems/contains-duplicate-ii/
-Difficulty: Easy
 */
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {

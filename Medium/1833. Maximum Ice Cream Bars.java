@@ -1,7 +1,6 @@
 /*
 Problem Name: 1833. Maximum Ice Cream Bars
 Problem Link: https://leetcode.com/problems/maximum-ice-cream-bars/
-Difficulty: Medium
 */
 class Solution {
     public int maxIceCream(int[] costs, int coins) {

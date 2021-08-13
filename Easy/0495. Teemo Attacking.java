@@ -1,7 +1,6 @@
 /*
 Problem Name: 495. Teemo Attacking
 Problem Link: https://leetcode.com/problems/teemo-attacking/
-Difficulty: Easy
 */
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {

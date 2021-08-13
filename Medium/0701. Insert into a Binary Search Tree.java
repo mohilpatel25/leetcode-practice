@@ -1,7 +1,6 @@
 /*
 Problem Name: 701. Insert into a Binary Search Tree
 Problem Link: https://leetcode.com/problems/insert-into-a-binary-search-tree/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

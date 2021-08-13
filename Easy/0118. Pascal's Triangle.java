@@ -1,7 +1,6 @@
 /*
 Problem Name: 118. Pascal's Triangle
 Problem Link: https://leetcode.com/problems/pascals-triangle/
-Difficulty: Easy
 */
 class Solution {
     public List<List<Integer>> generate(int numRows) {

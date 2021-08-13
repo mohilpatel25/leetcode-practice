@@ -1,7 +1,6 @@
 /*
 Problem Name: 401. Binary Watch
 Problem Link: https://leetcode.com/problems/binary-watch/
-Difficulty: Easy
 */
 class Solution {
     public List<String> readBinaryWatch(int turnedOn) {

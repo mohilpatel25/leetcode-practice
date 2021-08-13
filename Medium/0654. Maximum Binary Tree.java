@@ -1,7 +1,6 @@
 /*
 Problem Name: 654. Maximum Binary Tree
 Problem Link: https://leetcode.com/problems/maximum-binary-tree/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

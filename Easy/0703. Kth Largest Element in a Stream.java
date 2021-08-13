@@ -1,7 +1,6 @@
 /*
 Problem Name: 703. Kth Largest Element in a Stream
 Problem Link: https://leetcode.com/problems/kth-largest-element-in-a-stream/
-Difficulty: Easy
 */
 class KthLargest {
     int k;

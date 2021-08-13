@@ -1,7 +1,6 @@
 /*
 Problem Name: 48. Rotate Image
 Problem Link: https://leetcode.com/problems/rotate-image/
-Difficulty: Medium
 */
 class Solution {
     public void rotate(int[][] matrix) {

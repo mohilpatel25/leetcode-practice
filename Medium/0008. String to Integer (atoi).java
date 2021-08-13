@@ -1,7 +1,6 @@
 /*
 Problem Name: 8. String to Integer (atoi)
 Problem Link: https://leetcode.com/problems/string-to-integer-atoi/
-Difficulty: Medium
 */
 class Solution {
     public int myAtoi(String s) {

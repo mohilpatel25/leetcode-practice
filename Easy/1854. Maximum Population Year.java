@@ -1,7 +1,6 @@
 /*
 Problem Name: 1854. Maximum Population Year
 Problem Link: https://leetcode.com/problems/maximum-population-year/
-Difficulty: Easy
 */
 class Solution {
     public int maximumPopulation(int[][] logs) {

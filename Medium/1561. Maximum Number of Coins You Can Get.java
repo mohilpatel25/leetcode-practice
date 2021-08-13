@@ -1,7 +1,6 @@
 /*
 Problem Name: 1561. Maximum Number of Coins You Can Get
 Problem Link: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
-Difficulty: Medium
 */
 class Solution {
     public int maxCoins(int[] piles) {

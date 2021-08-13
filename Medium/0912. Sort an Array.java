@@ -1,7 +1,6 @@
 /*
 Problem Name: 912. Sort an Array
 Problem Link: https://leetcode.com/problems/sort-an-array/
-Difficulty: Medium
 */
 class Solution {
     public int[] sortArray(int[] nums) {

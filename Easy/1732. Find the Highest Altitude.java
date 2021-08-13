@@ -1,7 +1,6 @@
 /*
 Problem Name: 1732. Find the Highest Altitude
 Problem Link: https://leetcode.com/problems/find-the-highest-altitude/
-Difficulty: Easy
 */
 class Solution {
     public int largestAltitude(int[] gain) {

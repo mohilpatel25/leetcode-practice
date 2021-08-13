@@ -1,7 +1,6 @@
 /*
 Problem Name: 1758. Minimum Changes To Make Alternating Binary String
 Problem Link: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
-Difficulty: Easy
 */
 class Solution {
     public int minOperations(String s) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 1694. Reformat Phone Number
 Problem Link: https://leetcode.com/problems/reformat-phone-number/
-Difficulty: Easy
 */
 class Solution {
     public String reformatNumber(String number) {

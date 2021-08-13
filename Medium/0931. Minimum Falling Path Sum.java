@@ -1,7 +1,6 @@
 /*
 Problem Name: 931. Minimum Falling Path Sum
 Problem Link: https://leetcode.com/problems/minimum-falling-path-sum/
-Difficulty: Medium
 */
 class Solution {
     public int minFallingPathSum(int[][] matrix) {

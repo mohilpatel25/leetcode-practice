@@ -1,7 +1,6 @@
 /*
 Problem Name: 145. Binary Tree Postorder Traversal
 Problem Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
-Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

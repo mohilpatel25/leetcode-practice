@@ -1,7 +1,6 @@
 /*
 Problem Name: 1375. Bulb Switcher III
 Problem Link: https://leetcode.com/problems/bulb-switcher-iii/
-Difficulty: Medium
 */
 class Solution {
     public int numTimesAllBlue(int[] light) {

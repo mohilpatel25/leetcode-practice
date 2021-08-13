@@ -1,7 +1,6 @@
 /*
 Problem Name: 141. Linked List Cycle
 Problem Link: https://leetcode.com/problems/linked-list-cycle/
-Difficulty: Easy
 */
 /**
  * Definition for singly-linked list.

@@ -1,7 +1,6 @@
 /*
 Problem Name: 27. Remove Element
 Problem Link: https://leetcode.com/problems/remove-element/
-Difficulty: Easy
 */
 class Solution {
     public int removeElement(int[] nums, int val) {

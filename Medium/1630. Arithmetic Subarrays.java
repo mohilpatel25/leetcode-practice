@@ -1,7 +1,6 @@
 /*
 Problem Name: 1630. Arithmetic Subarrays
 Problem Link: https://leetcode.com/problems/arithmetic-subarrays/
-Difficulty: Medium
 */
 class Solution {
     public List<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {

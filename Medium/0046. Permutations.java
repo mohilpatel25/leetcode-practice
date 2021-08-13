@@ -1,7 +1,6 @@
 /*
 Problem Name: 46. Permutations
 Problem Link: https://leetcode.com/problems/permutations/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> permute(int[] nums) {

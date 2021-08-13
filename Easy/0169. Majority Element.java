@@ -1,7 +1,6 @@
 /*
 Problem Name: 169. Majority Element
 Problem Link: https://leetcode.com/problems/majority-element/
-Difficulty: Easy
 */
 class Solution {
     public int majorityElement(int[] nums) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 1329. Sort the Matrix Diagonally
 Problem Link: https://leetcode.com/problems/sort-the-matrix-diagonally/
-Difficulty: Medium
 */
 class Solution {
     public int[][] diagonalSort(int[][] mat) {

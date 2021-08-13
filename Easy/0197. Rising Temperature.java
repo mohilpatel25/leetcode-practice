@@ -1,7 +1,6 @@
 /*
 Problem Name: 197. Rising Temperature
 Problem Link: https://leetcode.com/problems/rising-temperature/
-Difficulty: Easy
 */
 
 # Write your MySQL query statement below

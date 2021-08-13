@@ -1,7 +1,6 @@
 /*
 Problem Name: 73. Set Matrix Zeroes
 Problem Link: https://leetcode.com/problems/set-matrix-zeroes/
-Difficulty: Medium
 */
 class Solution {
     public void setZeroes(int[][] matrix) {

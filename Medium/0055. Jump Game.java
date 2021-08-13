@@ -1,7 +1,6 @@
 /*
 Problem Name: 55. Jump Game
 Problem Link: https://leetcode.com/problems/jump-game/
-Difficulty: Medium
 */
 class Solution {
     public boolean canJump(int[] nums) {

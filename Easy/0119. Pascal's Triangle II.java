@@ -1,7 +1,6 @@
 /*
 Problem Name: 119. Pascal's Triangle II
 Problem Link: https://leetcode.com/problems/pascals-triangle-ii/
-Difficulty: Easy
 */
 class Solution {
     public List<Integer> getRow(int rowIndex) {

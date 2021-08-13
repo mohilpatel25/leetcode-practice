@@ -1,7 +1,6 @@
 /*
 Problem Name: 1893. Check if All the Integers in a Range Are Covered
 Problem Link: https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
-Difficulty: Easy
 */
 class Solution {
     public boolean isCovered(int[][] ranges, int left, int right) {

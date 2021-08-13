@@ -1,7 +1,6 @@
 /*
 Problem Name: 78. Subsets
 Problem Link: https://leetcode.com/problems/subsets/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {

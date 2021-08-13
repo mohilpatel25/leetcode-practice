@@ -1,7 +1,6 @@
 /*
 Problem Name: 1910. Remove All Occurrences of a Substring
 Problem Link: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
-Difficulty: Medium
 */
 class Solution {
     public String removeOccurrences(String s, String part) {

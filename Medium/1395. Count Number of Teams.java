@@ -1,7 +1,6 @@
 /*
 Problem Name: 1395. Count Number of Teams
 Problem Link: https://leetcode.com/problems/count-number-of-teams/
-Difficulty: Medium
 */
 class Solution {
     public int numTeams(int[] rating) {

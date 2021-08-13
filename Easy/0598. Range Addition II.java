@@ -1,7 +1,6 @@
 /*
 Problem Name: 598. Range Addition II
 Problem Link: https://leetcode.com/problems/range-addition-ii/
-Difficulty: Easy
 */
 class Solution {
     public int maxCount(int m, int n, int[][] ops) {

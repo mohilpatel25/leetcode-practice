@@ -1,7 +1,6 @@
 /*
 Problem Name: 1807. Evaluate the Bracket Pairs of a String
 Problem Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
-Difficulty: Medium
 */
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {

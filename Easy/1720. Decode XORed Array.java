@@ -1,7 +1,6 @@
 /*
 Problem Name: 1720. Decode XORed Array
 Problem Link: https://leetcode.com/problems/decode-xored-array/
-Difficulty: Easy
 */
 class Solution {
     public int[] decode(int[] encoded, int first) {

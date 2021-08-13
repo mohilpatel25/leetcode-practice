@@ -1,7 +1,6 @@
 /*
 Problem Name: 225. Implement Stack using Queues
 Problem Link: https://leetcode.com/problems/implement-stack-using-queues/
-Difficulty: Easy
 */
 class MyStack {
 

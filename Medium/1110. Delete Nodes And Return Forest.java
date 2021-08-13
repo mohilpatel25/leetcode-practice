@@ -1,7 +1,6 @@
 /*
 Problem Name: 1110. Delete Nodes And Return Forest
 Problem Link: https://leetcode.com/problems/delete-nodes-and-return-forest/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

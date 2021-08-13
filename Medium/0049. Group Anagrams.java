@@ -1,7 +1,6 @@
 /*
 Problem Name: 49. Group Anagrams
 Problem Link: https://leetcode.com/problems/group-anagrams/
-Difficulty: Medium
 */
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {

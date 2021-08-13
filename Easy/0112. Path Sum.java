@@ -1,7 +1,6 @@
 /*
 Problem Name: 112. Path Sum
 Problem Link: https://leetcode.com/problems/path-sum/
-Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

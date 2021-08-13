@@ -1,7 +1,6 @@
 /*
 Problem Name: 7. Reverse Integer
 Problem Link: https://leetcode.com/problems/reverse-integer/
-Difficulty: Easy
 */
 class Solution {
     public int reverse(int x) {

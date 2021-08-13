@@ -1,7 +1,6 @@
 /*
 Problem Name: 1897. Redistribute Characters to Make All Strings Equal
 Problem Link: https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
-Difficulty: Easy
 */
 class Solution {
     public boolean makeEqual(String[] words) {

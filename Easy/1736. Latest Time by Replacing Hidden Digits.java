@@ -1,7 +1,6 @@
 /*
 Problem Name: 1736. Latest Time by Replacing Hidden Digits
 Problem Link: https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
-Difficulty: Easy
 */
 class Solution {
     public String maximumTime(String time) {

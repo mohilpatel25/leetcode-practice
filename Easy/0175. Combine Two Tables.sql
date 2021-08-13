@@ -1,7 +1,6 @@
 /*
 Problem Name: 175. Combine Two Tables
 Problem Link: https://leetcode.com/problems/combine-two-tables/
-Difficulty: Easy
 */
 # Write your MySQL query statement below
 

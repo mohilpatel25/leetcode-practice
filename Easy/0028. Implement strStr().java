@@ -1,7 +1,6 @@
 /*
 Problem Name: 28. Implement strStr()
 Problem Link: https://leetcode.com/problems/implement-strstr/
-Difficulty: Easy
 */
 class Solution {
     public int strStr(String haystack, String needle) {

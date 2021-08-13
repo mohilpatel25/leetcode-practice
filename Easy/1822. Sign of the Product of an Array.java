@@ -1,7 +1,6 @@
 /*
 Problem Name: 1822. Sign of the Product of an Array
 Problem Link: https://leetcode.com/problems/sign-of-the-product-of-an-array/
-Difficulty: Easy
 */
 class Solution {
     public int arraySign(int[] nums) {

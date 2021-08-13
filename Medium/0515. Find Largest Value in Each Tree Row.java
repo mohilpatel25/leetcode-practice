@@ -1,7 +1,6 @@
 /*
 Problem Name: 515. Find Largest Value in Each Tree Row
 Problem Link: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

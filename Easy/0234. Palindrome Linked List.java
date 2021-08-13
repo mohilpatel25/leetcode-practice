@@ -1,7 +1,6 @@
 /*
 Problem Name: 234. Palindrome Linked List
 Problem Link: https://leetcode.com/problems/palindrome-linked-list/
-Difficulty: Easy
 */
 /**
  * Definition for singly-linked list.

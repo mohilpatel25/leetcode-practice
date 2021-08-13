@@ -1,7 +1,6 @@
 /*
 Problem Name: 34. Find First and Last Position of Element in Sorted Array
 Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-Difficulty: Medium
 */
 class Solution {
     public int[] searchRange(int[] nums, int target) {

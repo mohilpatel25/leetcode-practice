@@ -1,7 +1,6 @@
 /*
 Problem Name: 77. Combinations
 Problem Link: https://leetcode.com/problems/combinations/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> combine(int n, int k) {

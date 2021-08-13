@@ -1,7 +1,6 @@
 /*
 Problem Name: 38. Count and Say
 Problem Link: https://leetcode.com/problems/count-and-say/
-Difficulty: Easy
 */
 class Solution {
     public String countAndSay(int n) {

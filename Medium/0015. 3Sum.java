@@ -1,7 +1,6 @@
 /*
 Problem Name: 15. 3Sum
 Problem Link: https://leetcode.com/problems/3sum/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {

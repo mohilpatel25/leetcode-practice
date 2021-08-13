@@ -1,7 +1,6 @@
 /*
 Problem Name: 1529. Bulb Switcher IV
 Problem Link: https://leetcode.com/problems/bulb-switcher-iv/
-Difficulty: Medium
 */
 class Solution {
     public int minFlips(String target) {

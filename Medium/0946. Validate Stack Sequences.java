@@ -1,7 +1,6 @@
 /*
 Problem Name: 946. Validate Stack Sequences
 Problem Link: https://leetcode.com/problems/validate-stack-sequences/
-Difficulty: Medium
 */
 class Solution {
     public boolean validateStackSequences(int[] pushed, int[] popped) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 1725. Number Of Rectangles That Can Form The Largest Square
 Problem Link: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
-Difficulty: Easy
 */
 class Solution {
     public int countGoodRectangles(int[][] rectangles) {

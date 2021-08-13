@@ -1,7 +1,6 @@
 /*
 Problem Name: 14. Longest Common Prefix
 Problem Link: https://leetcode.com/problems/longest-common-prefix/
-Difficulty: Easy
 */
 class Solution {
     public String longestCommonPrefix(String[] strs) {

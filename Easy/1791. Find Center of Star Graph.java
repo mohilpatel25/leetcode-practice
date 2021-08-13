@@ -1,7 +1,6 @@
 /*
 Problem Name: 1791. Find Center of Star Graph
 Problem Link: https://leetcode.com/problems/find-center-of-star-graph/
-Difficulty: Easy
 */
 class Solution {
     public int findCenter(int[][] edges) {

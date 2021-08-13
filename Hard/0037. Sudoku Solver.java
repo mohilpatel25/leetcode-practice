@@ -1,7 +1,6 @@
 /*
 Problem Name: 37. Sudoku Solver
 Problem Link: https://leetcode.com/problems/sudoku-solver/
-Difficulty: Hard
 */
 class Solution {
     public void solveSudoku(char[][] board) {

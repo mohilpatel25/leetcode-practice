@@ -1,7 +1,6 @@
 /*
 Problem Name: 890. Find and Replace Pattern
 Problem Link: https://leetcode.com/problems/find-and-replace-pattern/
-Difficulty: Medium
 */
 class Solution {
     public List<String> findAndReplacePattern(String[] words, String pattern) {

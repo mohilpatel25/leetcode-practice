@@ -1,7 +1,6 @@
 /*
 Problem Name: 12. Integer to Roman
 Problem Link: https://leetcode.com/problems/integer-to-roman/
-Difficulty: Medium
 */
 class Solution {
     public String intToRoman(int num) {

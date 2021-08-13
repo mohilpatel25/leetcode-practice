@@ -1,7 +1,6 @@
 /*
 Problem Name: 5. Longest Palindromic Substring
 Problem Link: https://leetcode.com/problems/longest-palindromic-substring/
-Difficulty: Hard
 */
 class Solution {
     public String longestPalindrome(String s) {

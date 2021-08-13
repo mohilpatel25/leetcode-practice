@@ -1,7 +1,6 @@
 /*
 Problem Name: 997. Find the Town Judge
 Problem Link: https://leetcode.com/problems/find-the-town-judge/
-Difficulty: Easy
 */
 class Solution {
     public int findJudge(int n, int[][] trust) {

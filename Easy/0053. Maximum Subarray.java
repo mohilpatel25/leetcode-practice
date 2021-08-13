@@ -1,7 +1,6 @@
 /*
 Problem Name: 53. Maximum Subarray
 Problem Link: https://leetcode.com/problems/maximum-subarray/
-Difficulty: Easy
 */
 class Solution {
     public int maxSubArray(int[] nums) {

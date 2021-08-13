@@ -1,7 +1,6 @@
 /*
 Problem Name: 17. Letter Combinations of a Phone Number
 Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-Difficulty: Medium
 */
 class Solution {
     public List<String> letterCombinations(String digits) {

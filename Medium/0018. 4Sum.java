@@ -1,7 +1,6 @@
 /*
 Problem Name: 18. 4Sum
 Problem Link: https://leetcode.com/problems/4sum/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 203. Remove Linked List Elements
 Problem Link: https://leetcode.com/problems/remove-linked-list-elements/
-Difficulty: Easy
 */
 /**
  * Definition for singly-linked list.

@@ -1,7 +1,6 @@
 /*
 Problem Name: 226. Invert Binary Tree
 Problem Link: https://leetcode.com/problems/invert-binary-tree/
-Difficulty: Easy
 */
 /**
  * Definition for a binary tree node.

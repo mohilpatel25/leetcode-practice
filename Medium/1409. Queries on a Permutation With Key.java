@@ -1,7 +1,6 @@
 /*
 Problem Name: 1409. Queries on a Permutation With Key
 Problem Link: https://leetcode.com/problems/queries-on-a-permutation-with-key/
-Difficulty: Medium
 */
 class Solution {
     public int[] processQueries(int[] queries, int m) {

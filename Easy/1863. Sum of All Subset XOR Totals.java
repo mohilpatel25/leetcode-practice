@@ -1,7 +1,6 @@
 /*
 Problem Name: 1863. Sum of All Subset XOR Totals
 Problem Link: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
-Difficulty: Easy
 */
 class Solution {
     public int subsetXORSum(int[] nums) {        

@@ -1,7 +1,6 @@
 /*
 Problem Name: 24. Swap Nodes in Pairs
 Problem Link: https://leetcode.com/problems/swap-nodes-in-pairs/
-Difficulty: Medium
 */
 /**
  * Definition for singly-linked list.

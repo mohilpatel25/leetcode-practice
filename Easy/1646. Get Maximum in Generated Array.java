@@ -1,7 +1,6 @@
 /*
 Problem Name: 1646. Get Maximum in Generated Array
 Problem Link: https://leetcode.com/problems/get-maximum-in-generated-array/
-Difficulty: Easy
 */
 class Solution {
     public int getMaximumGenerated(int n) {

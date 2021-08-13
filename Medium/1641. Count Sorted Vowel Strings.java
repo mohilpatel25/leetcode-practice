@@ -1,7 +1,6 @@
 /*
 Problem Name: 1641. Count Sorted Vowel Strings
 Problem Link: https://leetcode.com/problems/count-sorted-vowel-strings/
-Difficulty: Medium
 */
 class Solution {
     public int countVowelStrings(int n) {

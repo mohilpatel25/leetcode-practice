@@ -1,7 +1,6 @@
 /*
 Problem Name: 859. Buddy Strings
 Problem Link: https://leetcode.com/problems/buddy-strings/
-Difficulty: Easy
 */
 class Solution {
     public boolean buddyStrings(String s, String goal) {

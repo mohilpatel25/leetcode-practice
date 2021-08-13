@@ -1,7 +1,6 @@
 /*
 Problem Name: 47. Permutations II
 Problem Link: https://leetcode.com/problems/permutations-ii/
-Difficulty: Medium
 */
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 951. Flip Equivalent Binary Trees
 Problem Link: https://leetcode.com/problems/flip-equivalent-binary-trees/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

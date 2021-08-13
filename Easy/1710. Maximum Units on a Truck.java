@@ -1,7 +1,6 @@
 /*
 Problem Name: 1710. Maximum Units on a Truck
 Problem Link: https://leetcode.com/problems/maximum-units-on-a-truck/
-Difficulty: Easy
 */
 class Solution {
     public int maximumUnits(int[][] boxTypes, int truckSize) {

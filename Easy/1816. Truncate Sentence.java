@@ -1,7 +1,6 @@
 /*
 Problem Name: 1816. Truncate Sentence
 Problem Link: https://leetcode.com/problems/truncate-sentence/
-Difficulty: Easy
 */
 class Solution {
     public String truncateSentence(String s, int k) {

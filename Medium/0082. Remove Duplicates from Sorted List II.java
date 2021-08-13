@@ -1,7 +1,6 @@
 /*
 Problem Name: 82. Remove Duplicates from Sorted List II
 Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-Difficulty: Medium
 */
 /**
  * Definition for singly-linked list.

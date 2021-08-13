@@ -1,7 +1,6 @@
 /*
 Problem Name: 1859. Sorting the Sentence
 Problem Link: https://leetcode.com/problems/sorting-the-sentence/
-Difficulty: Easy
 */
 class Solution {
     public String sortSentence(String s) {

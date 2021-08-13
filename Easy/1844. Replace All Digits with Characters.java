@@ -1,7 +1,6 @@
 /*
 Problem Name: 1844. Replace All Digits with Characters
 Problem Link: https://leetcode.com/problems/replace-all-digits-with-characters/
-Difficulty: Easy
 */
 class Solution {
     public String replaceDigits(String s) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 492. Construct the Rectangle
 Problem Link: https://leetcode.com/problems/construct-the-rectangle/
-Difficulty: Easy
 */
 class Solution {
     public int[] constructRectangle(int area) {

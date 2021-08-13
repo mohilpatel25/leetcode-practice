@@ -1,7 +1,6 @@
 /*
 Problem Name: 31. Next Permutation
 Problem Link: https://leetcode.com/problems/next-permutation/
-Difficulty: Medium
 */
 class Solution {
     public void nextPermutation(int[] nums) {

@@ -1,7 +1,6 @@
 /*
 Problem Name: 1315. Sum of Nodes with Even-Valued Grandparent
 Problem Link: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

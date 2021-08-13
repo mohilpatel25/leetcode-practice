@@ -1,7 +1,6 @@
 /*
 Problem Name: 0535. Encode and Decode TinyURL
 Problem Link: https://leetcode.com/problems/encode-and-decode-tinyurl/
-Difficulty: Medium
 */
 public class Codec {
     String alnum = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";

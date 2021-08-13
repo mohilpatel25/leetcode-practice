@@ -1,7 +1,6 @@
 /*
 Problem Name: 1869. Longer Contiguous Segments of Ones than Zeros
 Problem Link: https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
-Difficulty: Easy
 */
 class Solution {
     public boolean checkZeroOnes(String s) {

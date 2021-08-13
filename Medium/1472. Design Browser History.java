@@ -1,7 +1,6 @@
 /*
 Problem Name: 1472. Design Browser History
 Problem Link: https://leetcode.com/problems/design-browser-history/
-Difficulty: Medium
 */
 class BrowserHistory {
     Stack<String> stck1, stck2;

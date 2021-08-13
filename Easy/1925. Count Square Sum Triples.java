@@ -1,7 +1,6 @@
 /*
 Problem Name: 1925. Count Square Sum Triples
 Problem Link: https://leetcode.com/problems/count-square-sum-triples/
-Difficulty: Easy
 */
 class Solution {
     public int countTriples(int n) {

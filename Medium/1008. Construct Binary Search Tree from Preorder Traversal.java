@@ -1,7 +1,6 @@
 /*
 Problem Name: 1008. Construct Binary Search Tree from Preorder Traversal
 Problem Link: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
-Difficulty: Medium
 */
 /**
  * Definition for a binary tree node.

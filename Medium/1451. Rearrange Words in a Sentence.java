@@ -1,7 +1,6 @@
 /*
 Problem Name: 1451. Rearrange Words in a Sentence
 Problem Link: https://leetcode.com/problems/rearrange-words-in-a-sentence/
-Difficulty: Medium
 */
 class Solution {
     public String arrangeWords(String text) {

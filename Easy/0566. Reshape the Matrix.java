@@ -1,7 +1,6 @@
 /*
 Problem Name: 566. Reshape the Matrix
 Problem Link: https://leetcode.com/problems/reshape-the-matrix/
-Difficulty: Easy
 */
 class Solution {
     public int[][] matrixReshape(int[][] mat, int r, int c) {

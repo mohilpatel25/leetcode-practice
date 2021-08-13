@@ -1,7 +1,6 @@
 /*
 Problem Name: 419. Battleships in a Board
 Problem Link: https://leetcode.com/problems/battleships-in-a-board/
-Difficulty: Medium
 */
 class Solution {
     public int countBattleships(char[][] board) {

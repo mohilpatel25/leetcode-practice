@@ -1,7 +1,6 @@
 /*
 Problem Name: 856. Score of Parentheses
 Problem Link: https://leetcode.com/problems/score-of-parentheses/
-Difficulty: Medium
 */
 class Solution {
     public int scoreOfParentheses(String s) {
