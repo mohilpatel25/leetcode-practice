@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>136 Problems</td></tr>
-	<tr><td>Medium</td><td>121 Problems</td></tr>
+	<tr><td>Medium</td><td>122 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
 
@@ -104,6 +104,7 @@ The questions have been coded using Java. <br>
 |121|[Best Time to Buy and Sell Stock](Easy/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |122|[Best Time to Buy and Sell Stock II](Easy/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |125|[Valid Palindrome](Easy/0125.%20Valid%20Palindrome.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|128|[Longest Consecutive Sequence](Medium/0128.%20Longest%20Consecutive%20Sequence.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |136|[Single Number](Easy/0136.%20Single%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |141|[Linked List Cycle](Easy/0141.%20Linked%20List%20Cycle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |145|[Binary Tree Postorder Traversal](Easy/0145.%20Binary%20Tree%20Postorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
