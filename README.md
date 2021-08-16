@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>136 Problems</td></tr>
-	<tr><td>Medium</td><td>122 Problems</td></tr>
+	<tr><td>Medium</td><td>126 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
 
@@ -105,6 +105,7 @@ The questions have been coded using Java. <br>
 |122|[Best Time to Buy and Sell Stock II](Easy/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |125|[Valid Palindrome](Easy/0125.%20Valid%20Palindrome.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |128|[Longest Consecutive Sequence](Medium/0128.%20Longest%20Consecutive%20Sequence.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|129|[Sum Root to Leaf Numbers](Medium/0129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |136|[Single Number](Easy/0136.%20Single%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |141|[Linked List Cycle](Easy/0141.%20Linked%20List%20Cycle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |145|[Binary Tree Postorder Traversal](Easy/0145.%20Binary%20Tree%20Postorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -139,6 +140,7 @@ The questions have been coded using Java. <br>
 |231|[Power of Two](Easy/0231.%20Power%20of%20Two.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |232|[Implement Queue using Stacks](Easy/0232.%20Implement%20Queue%20using%20Stacks.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |234|[Palindrome Linked List](Easy/0234.%20Palindrome%20Linked%20List.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|398|[Random Pick Index](Medium/0398.%20Random%20Pick%20Index.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |401|[Binary Watch](Easy/0401.%20Binary%20Watch.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |415|[Add Strings](Easy/0415.%20Add%20Strings.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |419|[Battleships in a Board](Medium/0419.%20Battleships%20in%20a%20Board.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -147,6 +149,7 @@ The questions have been coded using Java. <br>
 |453|[Minimum Moves to Equal Array Elements](Easy/0453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |492|[Construct the Rectangle](Easy/0492.%20Construct%20the%20Rectangle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |495|[Teemo Attacking](Easy/0495.%20Teemo%20Attacking.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|503|[Next Greater Element II](Medium/0503.%20Next%20Greater%20Element%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |515|[Find Largest Value in Each Tree Row](Medium/0515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |535|[Encode and Decode TinyURL](Medium/0535.%20Encode%20and%20Decode%20TinyURL.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |541|[Reverse String II](Easy/0541.%20Reverse%20String%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -193,6 +196,7 @@ The questions have been coded using Java. <br>
 |1305|[All Elements in Two Binary Search Trees](Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1315|[Sum of Nodes with Even-Valued Grandparent](Medium/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1318|[Minimum Flips to Make a OR b Equal to c](Medium/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1324|[Print Words Vertically](Medium/1324.%20Print%20Words%20Vertically.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1325|[Delete Leaves With a Given Value](Medium/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1329|[Sort the Matrix Diagonally](Medium/1329.%20Sort%20the%20Matrix%20Diagonally.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1332|[Remove Palindromic Subsequences](Easy/1332.%20Remove%20Palindromic%20Subsequences.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
