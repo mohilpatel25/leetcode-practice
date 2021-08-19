@@ -2,7 +2,7 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>173 Problems</td></tr>
+	<tr><td>Easy</td><td>204 Problems</td></tr>
 	<tr><td>Medium</td><td>126 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
@@ -183,17 +183,48 @@ The questions have been coded using Java. <br>
 |453|[Minimum Moves to Equal Array Elements](Easy/0453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |455|[Assign Cookies](Easy/0455.%20Assign%20Cookies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |459|[Repeated Substring Pattern](Easy/0459.%20Repeated%20Substring%20Pattern.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|461|[Hamming Distance](Easy/0461.%20Hamming%20Distance.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|463|[Island Perimeter](Easy/0463.%20Island%20Perimeter.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|476|[Number Complement](Easy/0476.%20Number%20Complement.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|482|[License Key Formatting](Easy/0482.%20License%20Key%20Formatting.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|485|[Max Consecutive Ones](Easy/0485.%20Max%20Consecutive%20Ones.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |492|[Construct the Rectangle](Easy/0492.%20Construct%20the%20Rectangle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |495|[Teemo Attacking](Easy/0495.%20Teemo%20Attacking.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|496|[Next Greater Element I](Easy/0496.%20Next%20Greater%20Element%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|500|[Keyboard Row](Easy/0500.%20Keyboard%20Row.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|501|[Find Mode in Binary Search Tree](Easy/0501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |503|[Next Greater Element II](Medium/0503.%20Next%20Greater%20Element%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|504|[Base 7](Easy/0504.%20Base%207.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|506|[Relative Ranks](Easy/0506.%20Relative%20Ranks.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|507|[Perfect Number](Easy/0507.%20Perfect%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|509|[Fibonacci Number](Easy/0509.%20Fibonacci%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |515|[Find Largest Value in Each Tree Row](Medium/0515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|521|[Longest Uncommon Subsequence I](Easy/0521.%20Longest%20Uncommon%20Subsequence%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|530|[Minimum Absolute Difference in BST](Easy/0530.%20Minimum%20Absolute%20Difference%20in%20BST.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |535|[Encode and Decode TinyURL](Medium/0535.%20Encode%20and%20Decode%20TinyURL.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |541|[Reverse String II](Easy/0541.%20Reverse%20String%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |542|[01 Matrix](Medium/0542.%2001%20Matrix.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|543|[Diameter of Binary Tree](Easy/0543.%20Diameter%20of%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |547|[Number of Provinces](Medium/0547.%20Number%20of%20Provinces.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|551|[Student Attendance Record I](Easy/0551.%20Student%20Attendance%20Record%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|557|[Reverse Words in a String III](Easy/0557.%20Reverse%20Words%20in%20a%20String%20III.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|559|[Maximum Depth of N-ary Tree](Easy/0559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|561|[Array Partition I](Easy/0561.%20Array%20Partition%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|563|[Binary Tree Tilt](Easy/0563.%20Binary%20Tree%20Tilt.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |566|[Reshape the Matrix](Easy/0566.%20Reshape%20the%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|572|[Subtree of Another Tree](Easy/0572.%20Subtree%20of%20Another%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|575|[Distribute Candies](Easy/0575.%20Distribute%20Candies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|589|[N-ary Tree Preorder Traversal](Easy/0589.%20N-ary%20Tree%20Preorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|590|[N-ary Tree Postorder Traversal](Easy/0590.%20N-ary%20Tree%20Postorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |594|[Longest Harmonious Subsequence](Easy/0594.%20Longest%20Harmonious%20Subsequence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|595|[Big Countries](Easy/0595.%20Big%20Countries.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|596|[Classes More Than 5 Students](Easy/0596.%20Classes%20More%20Than%205%20Students.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |598|[Range Addition II](Easy/0598.%20Range%20Addition%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|599|[Minimum Index Sum of Two Lists](Easy/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|605|[Can Place Flowers](Easy/0605.%20Can%20Place%20Flowers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|606|[Construct String from Binary Tree](Easy/0606.%20Construct%20String%20from%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|617|[Merge Two Binary Trees](Easy/0617.%20Merge%20Two%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|620|[Not Boring Movies](Easy/0620.%20Not%20Boring%20Movies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |654|[Maximum Binary Tree](Medium/0654.%20Maximum%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |684|[Redundant Connection](Medium/0684.%20Redundant%20Connection.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |697|[Degree of an Array](Easy/0697.%20Degree%20of%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
