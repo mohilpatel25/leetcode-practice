@@ -2,7 +2,7 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>204 Problems</td></tr>
+	<tr><td>Easy</td><td>225 Problems</td></tr>
 	<tr><td>Medium</td><td>126 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
@@ -225,11 +225,31 @@ The questions have been coded using Java. <br>
 |606|[Construct String from Binary Tree](Easy/0606.%20Construct%20String%20from%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |617|[Merge Two Binary Trees](Easy/0617.%20Merge%20Two%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |620|[Not Boring Movies](Easy/0620.%20Not%20Boring%20Movies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|628|[Maximum Product of Three Numbers](Easy/0628.%20Maximum%20Product%20of%20Three%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|637|[Average of Levels in Binary Tree](Easy/0637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|643|[Maximum Average Subarray I](Easy/0643.%20Maximum%20Average%20Subarray%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|645|[Set Mismatch](Easy/0645.%20Set%20Mismatch.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|653|[Two Sum IV - Input is a BST](Easy/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |654|[Maximum Binary Tree](Medium/0654.%20Maximum%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|657|[Robot Return to Origin](Easy/0657.%20Robot%20Return%20to%20Origin.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|661|[Image Smoother](Easy/0661.%20Image%20Smoother.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|671|[Second Minimum Node In a Binary Tree](Easy/0671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|674|[Longest Continuous Increasing Subsequence](Easy/0674.%20Longest%20Continuous%20Increasing%20Subsequence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|680|[Valid Palindrome II](Easy/0680.%20Valid%20Palindrome%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|682|[Baseball Game](Easy/0682.%20Baseball%20Game.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |684|[Redundant Connection](Medium/0684.%20Redundant%20Connection.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|690|[Employee Importance](Easy/0690.%20Employee%20Importance.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|693|[Binary Number with Alternating Bits](Easy/0693.%20Binary%20Number%20with%20Alternating%20Bits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |697|[Degree of an Array](Easy/0697.%20Degree%20of%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|700|[Search in a Binary Search Tree](Easy/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |701|[Insert into a Binary Search Tree](Medium/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |703|[Kth Largest Element in a Stream](Easy/0703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|704|[Binary Search](Easy/0704.%20Binary%20Search.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|705|[Design HashSet](Easy/0705.%20Design%20HashSet.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|709|[To Lower Case](Easy/0709.%20To%20Lower%20Case.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|717|[1-bit and 2-bit Characters](Easy/0717.%201-bit%20and%202-bit%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|724|[Find Pivot Index](Easy/0724.%20Find%20Pivot%20Index.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|728|[Self Dividing Numbers](Easy/0728.%20Self%20Dividing%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |733|[Flood Fill](Easy/0733.%20Flood%20Fill.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |763|[Partition Labels](Medium/0763.%20Partition%20Labels.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |791|[Custom Sort String](Medium/0791.%20Custom%20Sort%20String.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -353,3 +373,4 @@ The questions have been coded using Java. <br>
 |1925|[Count Square Sum Triples](Easy/1925.%20Count%20Square%20Sum%20Triples.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1929|[Concatenation of Array](Easy/1929.%20Concatenation%20of%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1935|[Maximum Number of Words You Can Type](Easy/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|627|[Swap Salary](Easy/627.%20Swap%20Salary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
