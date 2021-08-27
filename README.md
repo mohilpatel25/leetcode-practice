@@ -2,7 +2,7 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>266 Problems</td></tr>
+	<tr><td>Easy</td><td>301 Problems</td></tr>
 	<tr><td>Medium</td><td>126 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
@@ -310,13 +310,48 @@ The questions have been coded using Java. <br>
 |951|[Flip Equivalent Binary Trees](Medium/0951.%20Flip%20Equivalent%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |953|[Verifying an Alien Dictionary](Easy/0953.%20Verifying%20an%20Alien%20Dictionary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |961|[N-Repeated Element in Size 2N Array](Easy/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|965|[Univalued Binary Tree](Easy/0965.%20Univalued%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |973|[K Closest Points to Origin](Medium/0973.%20K%20Closest%20Points%20to%20Origin.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|976|[Largest Perimeter Triangle](Easy/0976.%20Largest%20Perimeter%20Triangle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|977|[Squares of a Sorted Array](Easy/0977.%20Squares%20of%20a%20Sorted%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|989|[Add to Array-Form of Integer](Easy/0989.%20Add%20to%20Array-Form%20of%20Integer.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|993|[Cousins in Binary Tree](Easy/0993.%20Cousins%20in%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |997|[Find the Town Judge](Easy/0997.%20Find%20the%20Town%20Judge.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|999|[Available Captures for Rook](Easy/0999.%20Available%20Captures%20for%20Rook.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1002|[Find Common Characters](Easy/1002.%20Find%20Common%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1005|[Maximize Sum Of Array After K Negations](Easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](Medium/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1009|[Complement of Base 10 Integer](Easy/1009.%20Complement%20of%20Base%2010%20Integer.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1013|[Partition Array Into Three Parts With Equal Sum](Easy/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1018|[Binary Prefix Divisible By 5](Easy/1018.%20Binary%20Prefix%20Divisible%20By%205.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1021|[Remove Outermost Parentheses](Easy/1021.%20Remove%20Outermost%20Parentheses.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1022|[Sum of Root To Leaf Binary Numbers](Easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1025|[Divisor Game](Easy/1025.%20Divisor%20Game.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1030|[Matrix Cells in Distance Order](Easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1037|[Valid Boomerang](Easy/1037.%20Valid%20Boomerang.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1046|[Last Stone Weight](Easy/1046.%20Last%20Stone%20Weight.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1047|[Remove All Adjacent Duplicates In String](Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1051|[Height Checker](Easy/1051.%20Height%20Checker.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1071|[Greatest Common Divisor of Strings](Easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1078|[Occurrences After Bigram](Easy/1078.%20Occurrences%20After%20Bigram.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1079|[Letter Tile Possibilities](Medium/1079.%20Letter%20Tile%20Possibilities.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1089|[Duplicate Zeros](Easy/1089.%20Duplicate%20Zeros.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1103|[Distribute Candies to People](Easy/1103.%20Distribute%20Candies%20to%20People.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1108|[Defanging an IP Address](Easy/1108.%20Defanging%20an%20IP%20Address.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1110|[Delete Nodes And Return Forest](Medium/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1114|[Print in Order](Easy/1114.%20Print%20in%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1122|[Relative Sort Array](Easy/1122.%20Relative%20Sort%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1128|[Number of Equivalent Domino Pairs](Easy/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1137|[N-th Tribonacci Number](Easy/1137.%20N-th%20Tribonacci%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1154|[Day of the Year](Easy/1154.%20Day%20of%20the%20Year.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1160|[Find Words That Can Be Formed by Characters](Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1161|[Maximum Level Sum of a Binary Tree](Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1175|[Prime Arrangements](Easy/1175.%20Prime%20Arrangements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1184|[Distance Between Bus Stops](Easy/1184.%20Distance%20Between%20Bus%20Stops.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1189|[Maximum Number of Balloons](Easy/1189.%20Maximum%20Number%20of%20Balloons.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1200|[Minimum Absolute Difference](Easy/1200.%20Minimum%20Absolute%20Difference.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1207|[Unique Number of Occurrences](Easy/1207.%20Unique%20Number%20of%20Occurrences.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1217|[Minimum Cost to Move Chips to The Same Position](Easy/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1219|[Path with Maximum Gold](Medium/1219.%20Path%20with%20Maximum%20Gold.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1222|[Queens That Can Attack the King](Medium/1222.%20Queens%20That%20Can%20Attack%20the%20King.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1233|[Remove Sub-Folders from the Filesystem](Medium/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
