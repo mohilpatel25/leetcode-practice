@@ -2,8 +2,8 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>377 Problems</td></tr>
-	<tr><td>Medium</td><td>126 Problems</td></tr>
+	<tr><td>Easy</td><td>374 Problems</td></tr>
+	<tr><td>Medium</td><td>129 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
 
@@ -43,7 +43,7 @@ The questions have been coded using Java. <br>
 |35|[Search Insert Position](Easy/0035.%20Search%20Insert%20Position.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |36|[Valid Sudoku](Medium/0036.%20Valid%20Sudoku.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |37|[Sudoku Solver](Hard/0037.%20Sudoku%20Solver.md)|![](https://img.shields.io/badge/-Hard-%23e0375b)|
-|38|[Count and Say](Easy/0038.%20Count%20and%20Say.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|38|[Count and Say](Medium/0038.%20Count%20and%20Say.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |39|[Combination Sum](Medium/0039.%20Combination%20Sum.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |40|[Combination Sum II](Medium/0040.%20Combination%20Sum%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |41|[First Missing Positive](Hard/0041.%20First%20Missing%20Positive.md)|![](https://img.shields.io/badge/-Hard-%23e0375b)|
@@ -53,7 +53,7 @@ The questions have been coded using Java. <br>
 |47|[Permutations II](Medium/0047.%20Permutations%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |48|[Rotate Image](Medium/0048.%20Rotate%20Image.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |49|[Group Anagrams](Medium/0049.%20Group%20Anagrams.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
-|50|[Pow(x, n)](Easy/0050.%20Pow(x,%20n).md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|50|[Pow(x, n)](Medium/0050.%20Pow(x,%20n).md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |51|[N-Queens](Hard/0051.%20N-Queens.md)|![](https://img.shields.io/badge/-Hard-%23e0375b)|
 |52|[N-Queens II](Hard/0052.%20N-Queens%20II.md)|![](https://img.shields.io/badge/-Hard-%23e0375b)|
 |53|[Maximum Subarray](Easy/0053.%20Maximum%20Subarray.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -93,7 +93,7 @@ The questions have been coded using Java. <br>
 |101|[Symmetric Tree](Easy/0101.%20Symmetric%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |102|[Binary Tree Level Order Traversal](Medium/0102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |104|[Maximum Depth of Binary Tree](Easy/0104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
-|107|[Binary Tree Level Order Traversal II](Easy/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|107|[Binary Tree Level Order Traversal II](Medium/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |108|[Convert Sorted Array to Binary Search Tree](Easy/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |110|[Balanced Binary Tree](Easy/0110.%20Balanced%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |111|[Minimum Depth of Binary Tree](Easy/0111.%20Minimum%20Depth%20of%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
