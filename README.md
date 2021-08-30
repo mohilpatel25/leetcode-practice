@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>374 Problems</td></tr>
-	<tr><td>Medium</td><td>138 Problems</td></tr>
+	<tr><td>Medium</td><td>142 Problems</td></tr>
 	<tr><td>Hard</td><td>12 Problems</td></tr>
 </table>
 
@@ -481,6 +481,7 @@ The questions have been coded using Java. <br>
 |1720|[Decode XORed Array](Easy/1720.%20Decode%20XORed%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1721|[Swapping Nodes in a Linked List](Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1725|[Number Of Rectangles That Can Form The Largest Square](Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|173|[Binary Search Tree Iterator](Medium/173.%20Binary%20Search%20Tree%20Iterator.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1732|[Find the Highest Altitude](Easy/1732.%20Find%20the%20Highest%20Altitude.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1736|[Latest Time by Replacing Hidden Digits](Easy/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1742|[Maximum Number of Balls in a Box](Easy/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -521,6 +522,7 @@ The questions have been coded using Java. <br>
 |1876|[Substrings of Size Three with Distinct Characters](Easy/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1877|[Minimize Maximum Pair Sum in Array](Medium/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1880|[Check if Word Equals Summation of Two Words](Easy/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|189|[Rotate Array](Medium/189.%20Rotate%20Array.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1893|[Check if All the Integers in a Range Are Covered](Easy/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1897|[Redistribute Characters to Make All Strings Equal](Easy/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1909|[Remove One Element to Make the Array Strictly Increasing](Easy/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -530,6 +532,8 @@ The questions have been coded using Java. <br>
 |1925|[Count Square Sum Triples](Easy/1925.%20Count%20Square%20Sum%20Triples.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1929|[Concatenation of Array](Easy/1929.%20Concatenation%20of%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1935|[Maximum Number of Words You Can Type](Easy/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|198|[House Robber](Medium/198.%20House%20Robber.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|199|[Binary Tree Right Side View](Medium/199.%20Binary%20Tree%20Right%20Side%20View.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |80|[Remove Duplicates from Sorted Array II](Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |90|[Subsets II](Medium/90.%20Subsets%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |98|[Validate Binary Search Tree](Medium/98.%20Validate%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
