@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>374 Problems</td></tr>
-	<tr><td>Medium</td><td>158 Problems</td></tr>
+	<tr><td>Medium</td><td>165 Problems</td></tr>
 	<tr><td>Hard</td><td>12 Problems</td></tr>
 </table>
 
@@ -227,8 +227,11 @@ The questions have been coded using Java. <br>
 |520|[Detect Capital](Easy/0520.%20Detect%20Capital.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |521|[Longest Uncommon Subsequence I](Easy/0521.%20Longest%20Uncommon%20Subsequence%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |525|[Contiguous Array](Medium/0525.%20Contiguous%20Array.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|526|[Beautiful Arrangement](Medium/0526.%20Beautiful%20Arrangement.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |530|[Minimum Absolute Difference in BST](Easy/0530.%20Minimum%20Absolute%20Difference%20in%20BST.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |535|[Encode and Decode TinyURL](Medium/0535.%20Encode%20and%20Decode%20TinyURL.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|537|[Complex Number Multiplication](Medium/0537.%20Complex%20Number%20Multiplication.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|538|[Convert BST to Greater Tree](Medium/0538.%20Convert%20BST%20to%20Greater%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |541|[Reverse String II](Easy/0541.%20Reverse%20String%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |542|[01 Matrix](Medium/0542.%2001%20Matrix.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |543|[Diameter of Binary Tree](Easy/0543.%20Diameter%20of%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -241,6 +244,8 @@ The questions have been coded using Java. <br>
 |566|[Reshape the Matrix](Easy/0566.%20Reshape%20the%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |572|[Subtree of Another Tree](Easy/0572.%20Subtree%20of%20Another%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |575|[Distribute Candies](Easy/0575.%20Distribute%20Candies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|581|[Shortest Unsorted Continuous Subarray](Medium/0581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|583|[Delete Operation for Two Strings](Medium/0583.%20Delete%20Operation%20for%20Two%20Strings.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |589|[N-ary Tree Preorder Traversal](Easy/0589.%20N-ary%20Tree%20Preorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |590|[N-ary Tree Postorder Traversal](Easy/0590.%20N-ary%20Tree%20Postorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |594|[Longest Harmonious Subsequence](Easy/0594.%20Longest%20Harmonious%20Subsequence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -250,10 +255,12 @@ The questions have been coded using Java. <br>
 |599|[Minimum Index Sum of Two Lists](Easy/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |605|[Can Place Flowers](Easy/0605.%20Can%20Place%20Flowers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |606|[Construct String from Binary Tree](Easy/0606.%20Construct%20String%20from%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|611|[Valid Triangle Number](Medium/0611.%20Valid%20Triangle%20Number.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |617|[Merge Two Binary Trees](Easy/0617.%20Merge%20Two%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |620|[Not Boring Movies](Easy/0620.%20Not%20Boring%20Movies.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |627|[Swap Salary](Easy/0627.%20Swap%20Salary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |628|[Maximum Product of Three Numbers](Easy/0628.%20Maximum%20Product%20of%20Three%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|633|[Sum of Square Numbers](Medium/0633.%20Sum%20of%20Square%20Numbers.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |637|[Average of Levels in Binary Tree](Easy/0637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |643|[Maximum Average Subarray I](Easy/0643.%20Maximum%20Average%20Subarray%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |645|[Set Mismatch](Easy/0645.%20Set%20Mismatch.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
