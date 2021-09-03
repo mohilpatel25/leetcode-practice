@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>374 Problems</td></tr>
-	<tr><td>Medium</td><td>165 Problems</td></tr>
+	<tr><td>Medium</td><td>175 Problems</td></tr>
 	<tr><td>Hard</td><td>12 Problems</td></tr>
 </table>
 
@@ -268,6 +268,7 @@ The questions have been coded using Java. <br>
 |654|[Maximum Binary Tree](Medium/0654.%20Maximum%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |657|[Robot Return to Origin](Easy/0657.%20Robot%20Return%20to%20Origin.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |661|[Image Smoother](Easy/0661.%20Image%20Smoother.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|669|[Trim a Binary Search Tree](Medium/0669.%20Trim%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |671|[Second Minimum Node In a Binary Tree](Easy/0671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |674|[Longest Continuous Increasing Subsequence](Easy/0674.%20Longest%20Continuous%20Increasing%20Subsequence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |680|[Valid Palindrome II](Easy/0680.%20Valid%20Palindrome%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -275,6 +276,7 @@ The questions have been coded using Java. <br>
 |684|[Redundant Connection](Medium/0684.%20Redundant%20Connection.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |690|[Employee Importance](Easy/0690.%20Employee%20Importance.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |693|[Binary Number with Alternating Bits](Easy/0693.%20Binary%20Number%20with%20Alternating%20Bits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|695|[Max Area of Island](Medium/0695.%20Max%20Area%20of%20Island.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |697|[Degree of an Array](Easy/0697.%20Degree%20of%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |700|[Search in a Binary Search Tree](Easy/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |701|[Insert into a Binary Search Tree](Medium/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -283,9 +285,13 @@ The questions have been coded using Java. <br>
 |705|[Design HashSet](Easy/0705.%20Design%20HashSet.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |709|[To Lower Case](Easy/0709.%20To%20Lower%20Case.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |717|[1-bit and 2-bit Characters](Easy/0717.%201-bit%20and%202-bit%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|718|[Maximum Length of Repeated Subarray](Medium/0718.%20Maximum%20Length%20of%20Repeated%20Subarray.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|720|[Longest Word in Dictionary](Medium/0720.%20Longest%20Word%20in%20Dictionary.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |724|[Find Pivot Index](Easy/0724.%20Find%20Pivot%20Index.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|725|[Split Linked List in Parts](Medium/0725.%20Split%20Linked%20List%20in%20Parts.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |728|[Self Dividing Numbers](Easy/0728.%20Self%20Dividing%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |733|[Flood Fill](Easy/0733.%20Flood%20Fill.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|739|[Daily Temperatures](Medium/0739.%20Daily%20Temperatures.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |744|[Find Smallest Letter Greater Than Target](Easy/0744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |746|[Min Cost Climbing Stairs](Easy/0746.%20Min%20Cost%20Climbing%20Stairs.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |747|[Largest Number At Least Twice of Others](Easy/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -295,13 +301,17 @@ The questions have been coded using Java. <br>
 |766|[Toeplitz Matrix](Easy/0766.%20Toeplitz%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |771|[Jewels and Stones](Easy/0771.%20Jewels%20and%20Stones.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |783|[Minimum Distance Between BST Nodes](Easy/0783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|788|[Rotated Digits](Medium/0788.%20Rotated%20Digits.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|789|[Escape The Ghosts](Medium/0789.%20Escape%20The%20Ghosts.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |791|[Custom Sort String](Medium/0791.%20Custom%20Sort%20String.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |796|[Rotate String](Easy/0796.%20Rotate%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |797|[All Paths From Source to Target](Medium/0797.%20All%20Paths%20From%20Source%20to%20Target.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |804|[Unique Morse Code Words](Easy/0804.%20Unique%20Morse%20Code%20Words.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |806|[Number of Lines To Write String](Easy/0806.%20Number%20of%20Lines%20To%20Write%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |807|[Max Increase to Keep City Skyline](Medium/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|811|[Subdomain Visit Count](Medium/0811.%20Subdomain%20Visit%20Count.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |812|[Largest Triangle Area](Easy/0812.%20Largest%20Triangle%20Area.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|817|[Linked List Components](Medium/0817.%20Linked%20List%20Components.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |819|[Most Common Word](Easy/0819.%20Most%20Common%20Word.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |821|[Shortest Distance to a Character](Easy/0821.%20Shortest%20Distance%20to%20a%20Character.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |824|[Goat Latin](Easy/0824.%20Goat%20Latin.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
