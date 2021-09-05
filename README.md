@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>374 Problems</td></tr>
-	<tr><td>Medium</td><td>175 Problems</td></tr>
+	<tr><td>Medium</td><td>206 Problems</td></tr>
 	<tr><td>Hard</td><td>12 Problems</td></tr>
 </table>
 
@@ -116,6 +116,7 @@ The questions have been coded using Java. <br>
 |144|[Binary Tree Preorder Traversal](Easy/0144.%20Binary%20Tree%20Preorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |145|[Binary Tree Postorder Traversal](Easy/0145.%20Binary%20Tree%20Postorder%20Traversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |148|[Sort List](Medium/0148.%20Sort%20List.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|153|[Find Minimum in Rotated Sorted Array](Medium/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |155|[Min Stack](Easy/0155.%20Min%20Stack.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |160|[Intersection of Two Linked Lists](Easy/0160.%20Intersection%20of%20Two%20Linked%20Lists.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |167|[Two Sum II - Input array is sorted](Easy/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -313,13 +314,17 @@ The questions have been coded using Java. <br>
 |812|[Largest Triangle Area](Easy/0812.%20Largest%20Triangle%20Area.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |817|[Linked List Components](Medium/0817.%20Linked%20List%20Components.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |819|[Most Common Word](Easy/0819.%20Most%20Common%20Word.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|820|[Short Encoding of Words](Medium/0820.%20Short%20Encoding%20of%20Words.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |821|[Shortest Distance to a Character](Easy/0821.%20Shortest%20Distance%20to%20a%20Character.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|822|[Card Flipping Game](Medium/0822.%20Card%20Flipping%20Game.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |824|[Goat Latin](Easy/0824.%20Goat%20Latin.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|825|[Friends Of Appropriate Ages](Medium/0825.%20Friends%20Of%20Appropriate%20Ages.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |830|[Positions of Large Groups](Easy/0830.%20Positions%20of%20Large%20Groups.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |832|[Flipping an Image](Easy/0832.%20Flipping%20an%20Image.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |836|[Rectangle Overlap](Easy/0836.%20Rectangle%20Overlap.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |841|[Keys and Rooms](Medium/0841.%20Keys%20and%20Rooms.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |844|[Backspace String Compare](Easy/0844.%20Backspace%20String%20Compare.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|848|[Shifting Letters](Medium/0848.%20Shifting%20Letters.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |852|[Peak Index in a Mountain Array](Easy/0852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |856|[Score of Parentheses](Medium/0856.%20Score%20of%20Parentheses.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |859|[Buddy Strings](Easy/0859.%20Buddy%20Strings.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -327,9 +332,11 @@ The questions have been coded using Java. <br>
 |861|[Score After Flipping Matrix](Medium/0861.%20Score%20After%20Flipping%20Matrix.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |867|[Transpose Matrix](Easy/0867.%20Transpose%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |868|[Binary Gap](Easy/0868.%20Binary%20Gap.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|869|[Reordered Power of 2](Medium/0869.%20Reordered%20Power%20of%202.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |872|[Leaf-Similar Trees](Easy/0872.%20Leaf-Similar%20Trees.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |874|[Walking Robot Simulation](Easy/0874.%20Walking%20Robot%20Simulation.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |876|[Middle of the Linked List](Easy/0876.%20Middle%20of%20the%20Linked%20List.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|881|[Boats to Save People](Medium/0881.%20Boats%20to%20Save%20People.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |884|[Uncommon Words from Two Sentences](Easy/0884.%20Uncommon%20Words%20from%20Two%20Sentences..md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |888|[Fair Candy Swap](Easy/0888.%20Fair%20Candy%20Swap.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |890|[Find and Replace Pattern](Medium/0890.%20Find%20and%20Replace%20Pattern.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -340,6 +347,7 @@ The questions have been coded using Java. <br>
 |908|[Smallest Range I](Easy/0908.%20Smallest%20Range%20I.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |912|[Sort an Array](Medium/0912.%20Sort%20an%20Array.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |917|[Reverse Only Letters](Easy/0917.%20Reverse%20Only%20Letters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|921|[Minimum Add to Make Parentheses Valid](Medium/0921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |922|[Sort Array By Parity II](Easy/0922.%20Sort%20Array%20By%20Parity%20II.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |929|[Unique Email Addresses](Easy/0929.%20Unique%20Email%20Addresses.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |931|[Minimum Falling Path Sum](Medium/0931.%20Minimum%20Falling%20Path%20Sum.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -352,11 +360,15 @@ The questions have been coded using Java. <br>
 |946|[Validate Stack Sequences](Medium/0946.%20Validate%20Stack%20Sequences.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |951|[Flip Equivalent Binary Trees](Medium/0951.%20Flip%20Equivalent%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |953|[Verifying an Alien Dictionary](Easy/0953.%20Verifying%20an%20Alien%20Dictionary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|958|[Check Completeness of a Binary Tree](Medium/0958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |961|[N-Repeated Element in Size 2N Array](Easy/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |965|[Univalued Binary Tree](Easy/0965.%20Univalued%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|970|[Powerful Integers](Medium/0970.%20Powerful%20Integers.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |973|[K Closest Points to Origin](Medium/0973.%20K%20Closest%20Points%20to%20Origin.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |976|[Largest Perimeter Triangle](Easy/0976.%20Largest%20Perimeter%20Triangle.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |977|[Squares of a Sorted Array](Easy/0977.%20Squares%20of%20a%20Sorted%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|985|[Sum of Even Numbers After Queries](Medium/0985.%20Sum%20of%20Even%20Numbers%20After%20Queries.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|986|[Interval List Intersections](Medium/0986.%20Interval%20List%20Intersections.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |989|[Add to Array-Form of Integer](Easy/0989.%20Add%20to%20Array-Form%20of%20Integer.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |993|[Cousins in Binary Tree](Easy/0993.%20Cousins%20in%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |997|[Find the Town Judge](Easy/0997.%20Find%20the%20Town%20Judge.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -365,13 +377,17 @@ The questions have been coded using Java. <br>
 |1005|[Maximize Sum Of Array After K Negations](Easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](Medium/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1009|[Complement of Base 10 Integer](Easy/1009.%20Complement%20of%20Base%2010%20Integer.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](Medium/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1013|[Partition Array Into Three Parts With Equal Sum](Easy/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1018|[Binary Prefix Divisible By 5](Easy/1018.%20Binary%20Prefix%20Divisible%20By%205.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1019|[Next Greater Node In Linked List](Medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1021|[Remove Outermost Parentheses](Easy/1021.%20Remove%20Outermost%20Parentheses.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1022|[Sum of Root To Leaf Binary Numbers](Easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1025|[Divisor Game](Easy/1025.%20Divisor%20Game.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1030|[Matrix Cells in Distance Order](Easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1033|[Moving Stones Until Consecutive](Medium/1033.%20Moving%20Stones%20Until%20Consecutive.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1037|[Valid Boomerang](Easy/1037.%20Valid%20Boomerang.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1038|[Binary Search Tree to Greater Sum Tree](Medium/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1046|[Last Stone Weight](Easy/1046.%20Last%20Stone%20Weight.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1047|[Remove All Adjacent Duplicates In String](Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1051|[Height Checker](Easy/1051.%20Height%20Checker.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -381,25 +397,32 @@ The questions have been coded using Java. <br>
 |1089|[Duplicate Zeros](Easy/1089.%20Duplicate%20Zeros.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1103|[Distribute Candies to People](Easy/1103.%20Distribute%20Candies%20to%20People.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1108|[Defanging an IP Address](Easy/1108.%20Defanging%20an%20IP%20Address.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1109|[Corporate Flight Bookings](Medium/1109.%20Corporate%20Flight%20Bookings.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1110|[Delete Nodes And Return Forest](Medium/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1114|[Print in Order](Easy/1114.%20Print%20in%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1115|[Print FooBar Alternately](Medium/1115.%20Print%20FooBar%20Alternately.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1122|[Relative Sort Array](Easy/1122.%20Relative%20Sort%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1128|[Number of Equivalent Domino Pairs](Easy/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1137|[N-th Tribonacci Number](Easy/1137.%20N-th%20Tribonacci%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1143|[Longest Common Subsequence](Medium/1143.%20Longest%20Common%20Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1154|[Day of the Year](Easy/1154.%20Day%20of%20the%20Year.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1160|[Find Words That Can Be Formed by Characters](Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1161|[Maximum Level Sum of a Binary Tree](Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1170|[Compare Strings by Frequency of the Smallest Character](Medium/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1175|[Prime Arrangements](Easy/1175.%20Prime%20Arrangements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1184|[Distance Between Bus Stops](Easy/1184.%20Distance%20Between%20Bus%20Stops.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1189|[Maximum Number of Balloons](Easy/1189.%20Maximum%20Number%20of%20Balloons.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1200|[Minimum Absolute Difference](Easy/1200.%20Minimum%20Absolute%20Difference.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1207|[Unique Number of Occurrences](Easy/1207.%20Unique%20Number%20of%20Occurrences.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1209|[Remove All Adjacent Duplicates in String II](Medium/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1217|[Minimum Cost to Move Chips to The Same Position](Easy/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1219|[Path with Maximum Gold](Medium/1219.%20Path%20with%20Maximum%20Gold.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1221|[Split a String in Balanced Strings](Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1222|[Queens That Can Attack the King](Medium/1222.%20Queens%20That%20Can%20Attack%20the%20King.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1232|[Check If It Is a Straight Line](Easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1233|[Remove Sub-Folders from the Filesystem](Medium/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1237|[Find Positive Integer Solution for a Given Equation](Medium/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1252|[Cells with Odd Values in a Matrix](Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1254|[Number of Closed Islands](Medium/1254.%20Number%20of%20Closed%20Islands.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1261|[Find Elements in a Contaminated Binary Tree](Medium/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -411,6 +434,7 @@ The questions have been coded using Java. <br>
 |1290|[Convert Binary Number in a Linked List to Integer](Easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1295|[Find Numbers with Even Number of Digits](Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1299|[Replace Elements with Greatest Element on Right Side](Easy/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1302|[Deepest Leaves Sum](Medium/1302.%20Deepest%20Leaves%20Sum.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1304|[Find N Unique Integers Sum up to Zero](Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1305|[All Elements in Two Binary Search Trees](Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](Easy/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -425,16 +449,21 @@ The questions have been coded using Java. <br>
 |1331|[Rank Transform of an Array](Easy/1331.%20Rank%20Transform%20of%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1332|[Remove Palindromic Subsequences](Easy/1332.%20Remove%20Palindromic%20Subsequences.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1337|[The K Weakest Rows in a Matrix](Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1338|[Reduce Array Size to The Half](Medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1342|[Number of Steps to Reduce a Number to Zero](Easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1346|[Check If N and Its Double Exist](Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](Medium/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1351|[Count Negative Numbers in a Sorted Matrix](Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1356|[Sort Integers by The Number of 1 Bits](Easy/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1357|[Apply Discount Every n Orders](Medium/1357.%20Apply%20Discount%20Every%20n%20Orders.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1362|[Closest Divisors](Medium/1362.%20Closest%20Divisors.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](Easy/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1370|[Increasing Decreasing String](Easy/1370.%20Increasing%20Decreasing%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1374|[Generate a String With Characters That Have Odd Counts](Easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1375|[Bulb Switcher III](Medium/1375.%20Bulb%20Switcher%20III.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Medium/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1380|[Lucky Numbers in a Matrix](Easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1381|[Design a Stack With Increment Operation](Medium/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1382|[Balance a Binary Search Tree](Medium/1382.%20Balance%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1385|[Find the Distance Value Between Two Arrays](Easy/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1389|[Create Target Array in the Given Order](Easy/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -466,10 +495,12 @@ The questions have been coded using Java. <br>
 |1480|[Running Sum of 1d Array](Easy/1480.%20Running%20Sum%20of%201d%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1486|[XOR Operation in an Array](Easy/1486.%20XOR%20Operation%20in%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](Easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1492|[The kth Factor of n](Medium/1492.%20The%20kth%20Factor%20of%20n.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1496|[Path Crossing](Easy/1496.%20Path%20Crossing.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1502|[Can Make Arithmetic Progression From Sequence](Easy/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1507|[Reformat Date](Easy/1507.%20Reformat%20Date.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1512|[Number of Good Pairs](Easy/1512.%20Number%20of%20Good%20Pairs.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1513|[Number of Substrings With Only 1s](Medium/1513.%20Number%20of%20Substrings%20With%20Only%201s.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1518|[Water Bottles](Easy/1518.%20Water%20Bottles.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1523|[Count Odd Numbers in an Interval Range](Easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1525|[Number of Good Ways to Split a String](Medium/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
