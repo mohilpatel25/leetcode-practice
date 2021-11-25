@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>392 Problems</td></tr>
-	<tr><td>Medium</td><td>206 Problems</td></tr>
+	<tr><td>Medium</td><td>211 Problems</td></tr>
 	<tr><td>Hard</td><td>12 Problems</td></tr>
 </table>
 
@@ -155,6 +155,7 @@ The questions have been coded using Java. <br>
 |234|[Palindrome Linked List](Easy/0234.%20Palindrome%20Linked%20List.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](Easy/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |237|[Delete Node in a Linked List](Easy/0237.%20Delete%20Node%20in%20a%20Linked%20List.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|238|[Product of Array Except Self](Medium/0238.%20Product%20of%20Array%20Except%20Self.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |242|[Valid Anagram](Easy/0242.%20Valid%20Anagram.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |257|[Binary Tree Paths](Easy/0257.%20Binary%20Tree%20Paths.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |258|[Add Digits](Easy/0258.%20Add%20Digits.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -359,6 +360,7 @@ The questions have been coded using Java. <br>
 |942|[DI String Match](Easy/0942.%20DI%20String%20Match.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |944|[Delete Columns to Make Sorted](Easy/0944.%20Delete%20Columns%20to%20Make%20Sorted.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |946|[Validate Stack Sequences](Medium/0946.%20Validate%20Stack%20Sequences.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
+|950|[Reveal Cards In Increasing Order](Medium/0950.%20Reveal%20Cards%20In%20Increasing%20Order.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |951|[Flip Equivalent Binary Trees](Medium/0951.%20Flip%20Equivalent%20Binary%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |953|[Verifying an Alien Dictionary](Easy/0953.%20Verifying%20an%20Alien%20Dictionary.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |958|[Check Completeness of a Binary Tree](Medium/0958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -385,6 +387,7 @@ The questions have been coded using Java. <br>
 |1021|[Remove Outermost Parentheses](Easy/1021.%20Remove%20Outermost%20Parentheses.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1022|[Sum of Root To Leaf Binary Numbers](Easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1025|[Divisor Game](Easy/1025.%20Divisor%20Game.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1026|[Maximum Difference Between Node and Ancestor](Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1030|[Matrix Cells in Distance Order](Easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1033|[Moving Stones Until Consecutive](Medium/1033.%20Moving%20Stones%20Until%20Consecutive.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1037|[Valid Boomerang](Easy/1037.%20Valid%20Boomerang.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
@@ -441,6 +444,7 @@ The questions have been coded using Java. <br>
 |1305|[All Elements in Two Binary Search Trees](Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](Easy/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1313|[Decompress Run-Length Encoded List](Easy/1313.%20Decompress%20Run-Length%20Encoded%20List.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1314|[Matrix Block Sum](Medium/1314.%20Matrix%20Block%20Sum.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1315|[Sum of Nodes with Even-Valued Grandparent](Medium/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](Easy/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1318|[Minimum Flips to Make a OR b Equal to c](Medium/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
@@ -525,6 +529,7 @@ The questions have been coded using Java. <br>
 |1588|[Sum of All Odd Length Subarrays](Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1598|[Crawler Log Folder](Easy/1598.%20Crawler%20Log%20Folder.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1603|[Design Parking System](Easy/1603.%20Design%20Parking%20System.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|1605|[Find Valid Matrix Given Row and Column Sums](Medium/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |1608|[Special Array With X Elements Greater Than or Equal X](Easy/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1614|[Maximum Nesting Depth of the Parentheses](Easy/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1619|[Mean of Array After Removing Some Elements](Easy/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
