@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td>Easy</td><td>392 Problems</td></tr>
-	<tr><td>Medium</td><td>217 Problems</td></tr>
+	<tr><td>Medium</td><td>218 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
 
@@ -310,6 +310,7 @@ The questions have been coded using Java. <br>
 |766|[Toeplitz Matrix](Easy/0766.%20Toeplitz%20Matrix.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |771|[Jewels and Stones](Easy/0771.%20Jewels%20and%20Stones.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |783|[Minimum Distance Between BST Nodes](Easy/0783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|784|[Letter Case Permutation](Medium/0784.%20Letter%20Case%20Permutation.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |788|[Rotated Digits](Medium/0788.%20Rotated%20Digits.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |789|[Escape The Ghosts](Medium/0789.%20Escape%20The%20Ghosts.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
 |791|[Custom Sort String](Medium/0791.%20Custom%20Sort%20String.md)|![](https://img.shields.io/badge/-Medium-%23e38a29)|
