@@ -2,7 +2,7 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>392 Problems</td></tr>
+	<tr><td>Easy</td><td>404 Problems</td></tr>
 	<tr><td>Medium</td><td>218 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
@@ -632,3 +632,15 @@ The questions have been coded using Java. <br>
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](Easy/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1991|[Find the Middle Index in Array](Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |1995|[Count Special Quadruplets](Easy/1995.%20Count%20Special%20Quadruplets.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2000|[Reverse Prefix of Word](Easy/2000.%20Reverse%20Prefix%20of%20Word.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2006|[Count Number of Pairs With Absolute Difference K](Easy/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2011|[Final Value of Variable After Performing Operations](Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2016|[Maximum Difference Between Increasing Elements](Easy/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2022|[Convert 1D Array Into 2D Array](Easy/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2027|[Minimum Moves to Convert String](Easy/2027.%20Minimum%20Moves%20to%20Convert%20String.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2032|[Two Out of Three](Easy/2032.%20Two%20Out%20of%20Three.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2037|[Minimum Number of Moves to Seat Everyone](Easy/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2042|[Check if Numbers Are Ascending in a Sentence](Easy/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2053|[Kth Distinct String in an Array](Easy/2053.%20Kth%20Distinct%20String%20in%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2057|[Smallest Index With Equal Value](Easy/2057.%20Smallest%20Index%20With%20Equal%20Value.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2068|[Check Whether Two Strings are Almost Equivalent](Easy/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
