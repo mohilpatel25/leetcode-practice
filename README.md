@@ -2,7 +2,7 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>404 Problems</td></tr>
+	<tr><td>Easy</td><td>420 Problems</td></tr>
 	<tr><td>Medium</td><td>218 Problems</td></tr>
 	<tr><td>Hard</td><td>14 Problems</td></tr>
 </table>
@@ -644,3 +644,19 @@ The questions have been coded using Java. <br>
 |2053|[Kth Distinct String in an Array](Easy/2053.%20Kth%20Distinct%20String%20in%20an%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |2057|[Smallest Index With Equal Value](Easy/2057.%20Smallest%20Index%20With%20Equal%20Value.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
 |2068|[Check Whether Two Strings are Almost Equivalent](Easy/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2073|[Time Needed to Buy Tickets](Easy/2073.%20Time%20Needed%20to%20Buy%20Tickets.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2078|[Two Furthest Houses With Different Colors](Easy/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2085|[Count Common Words With One Occurrence](Easy/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2089|[Find Target Indices After Sorting Array](Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2094|[Finding 3-Digit Even Numbers](Easy/2094.%20Finding%203-Digit%20Even%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2099|[Find Subsequence of Length K With the Largest Sum](Easy/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2103|[Rings and Rods](Easy/2103.%20Rings%20and%20Rods.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2108|[Find First Palindromic String in the Array](Easy/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2114|[Maximum Number of Words Found in Sentences](Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2119|[A Number After a Double Reversal](Easy/2119.%20A%20Number%20After%20a%20Double%20Reversal.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2124|[Check if All A's Appears Before All B's](Easy/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2129|[Capitalize the Title](Easy/2129.%20Capitalize%20the%20Title.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2133|[Check if Every Row and Column Contains All Numbers](Easy/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2138|[Divide a String Into Groups of Size k](Easy/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2144|[Minimum Cost of Buying Candies With Discount](Easy/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
+|2148|[Count Elements With Strictly Smaller and Greater Elements](Easy/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.md)|![](https://img.shields.io/badge/-Easy-%230b915e)|
