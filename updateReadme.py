@@ -4,9 +4,9 @@ readme = '''# Leetcode Practice
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>{} Problems</td></tr>
-	<tr><td>Medium</td><td>{} Problems</td></tr>
-	<tr><td>Hard</td><td>{} Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Easy-%230b915e"/></td><td>{} Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Medium-%23e38a29"/></td><td>{} Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Hard-%23e0375b"/></td><td>{} Problems</td></tr>
 </table>
 
 '''.format(len(os.listdir('Easy')), len(os.listdir('Medium')), len(os.listdir('Hard')))
