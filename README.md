@@ -2,9 +2,9 @@
 This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
-	<tr><td>Easy</td><td>427 Problems</td></tr>
-	<tr><td>Medium</td><td>218 Problems</td></tr>
-	<tr><td>Hard</td><td>14 Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Easy-%230b915e"/></td><td>427 Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Medium-%23e38a29"/></td><td>218 Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Hard-%23e0375b"/></td><td>14 Problems</td></tr>
 </table>
 
 ### Problems
