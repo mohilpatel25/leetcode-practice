@@ -3,7 +3,7 @@ This repository contains the codes for leetcode questions. <br>
 The questions have been coded using Java. <br>
 <table>
 	<tr><td><img src="https://img.shields.io/badge/-Easy-%230b915e"/></td><td>427 Problems</td></tr>
-	<tr><td><img src="https://img.shields.io/badge/-Medium-%23e38a29"/></td><td>218 Problems</td></tr>
+	<tr><td><img src="https://img.shields.io/badge/-Medium-%23e38a29"/></td><td>228 Problems</td></tr>
 	<tr><td><img src="https://img.shields.io/badge/-Hard-%23e0375b"/></td><td>14 Problems</td></tr>
 </table>
 
@@ -286,6 +286,7 @@ The questions have been coded using Java. <br>
 <a href="Easy/0690.%20Employee%20Importance.md">![](https://img.shields.io/badge/-690.%20Employee%20Importance-%230b915e)</a>
 <a href="Easy/0693.%20Binary%20Number%20with%20Alternating%20Bits.md">![](https://img.shields.io/badge/-693.%20Binary%20Number%20with%20Alternating%20Bits-%230b915e)</a>
 <a href="Medium/0695.%20Max%20Area%20of%20Island.md">![](https://img.shields.io/badge/-695.%20Max%20Area%20of%20Island-%23e38a29)</a>
+<a href="Easy/0696.%20Count%20Binary%20Substrings.md">![](https://img.shields.io/badge/-696.%20Count%20Binary%20Substrings-%230b915e)</a>
 <a href="Easy/0697.%20Degree%20of%20an%20Array.md">![](https://img.shields.io/badge/-697.%20Degree%20of%20an%20Array-%230b915e)</a>
 <a href="Easy/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md">![](https://img.shields.io/badge/-700.%20Search%20in%20a%20Binary%20Search%20Tree-%230b915e)</a>
 <a href="Medium/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.md">![](https://img.shields.io/badge/-701.%20Insert%20into%20a%20Binary%20Search%20Tree-%23e38a29)</a>
@@ -350,6 +351,7 @@ The questions have been coded using Java. <br>
 <a href="Easy/0884.%20Uncommon%20Words%20from%20Two%20Sentences..md">![](https://img.shields.io/badge/-884.%20Uncommon%20Words%20from%20Two%20Sentences.-%230b915e)</a>
 <a href="Easy/0888.%20Fair%20Candy%20Swap.md">![](https://img.shields.io/badge/-888.%20Fair%20Candy%20Swap-%230b915e)</a>
 <a href="Medium/0890.%20Find%20and%20Replace%20Pattern.md">![](https://img.shields.io/badge/-890.%20Find%20and%20Replace%20Pattern-%23e38a29)</a>
+<a href="Easy/0892.%20Surface%20Area%20of%203D%20Shapes.md">![](https://img.shields.io/badge/-892.%20Surface%20Area%20of%203D%20Shapes-%230b915e)</a>
 <a href="Easy/0896.%20Monotonic%20Array.md">![](https://img.shields.io/badge/-896.%20Monotonic%20Array-%230b915e)</a>
 <a href="Easy/0897.%20Increasing%20Order%20Search%20Tree.md">![](https://img.shields.io/badge/-897.%20Increasing%20Order%20Search%20Tree-%230b915e)</a>
 <a href="Medium/0901.%20Online%20Stock%20Span.md">![](https://img.shields.io/badge/-901.%20Online%20Stock%20Span-%23e38a29)</a>
@@ -446,6 +448,7 @@ The questions have been coded using Java. <br>
 <a href="Easy/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.md">![](https://img.shields.io/badge/-1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game-%230b915e)</a>
 <a href="Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md">![](https://img.shields.io/badge/-1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer-%230b915e)</a>
 <a href="Medium/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md">![](https://img.shields.io/badge/-1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To-%23e38a29)</a>
+<a href="Medium/1286.%20Iterator%20for%20Combination.md">![](https://img.shields.io/badge/-1286.%20Iterator%20for%20Combination-%23e38a29)</a>
 <a href="Easy/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array.md">![](https://img.shields.io/badge/-1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array-%230b915e)</a>
 <a href="Easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md">![](https://img.shields.io/badge/-1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer-%230b915e)</a>
 <a href="Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md">![](https://img.shields.io/badge/-1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits-%230b915e)</a>
@@ -640,16 +643,19 @@ The questions have been coded using Java. <br>
 <a href="Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.md">![](https://img.shields.io/badge/-2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations-%230b915e)</a>
 <a href="Easy/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.md">![](https://img.shields.io/badge/-2016.%20Maximum%20Difference%20Between%20Increasing%20Elements-%230b915e)</a>
 <a href="Easy/2022.%20Convert%201D%20Array%20Into%202D%20Array.md">![](https://img.shields.io/badge/-2022.%20Convert%201D%20Array%20Into%202D%20Array-%230b915e)</a>
+<a href="Medium/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target.md">![](https://img.shields.io/badge/-2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target-%23e38a29)</a>
 <a href="Easy/2027.%20Minimum%20Moves%20to%20Convert%20String.md">![](https://img.shields.io/badge/-2027.%20Minimum%20Moves%20to%20Convert%20String-%230b915e)</a>
 <a href="Easy/2032.%20Two%20Out%20of%20Three.md">![](https://img.shields.io/badge/-2032.%20Two%20Out%20of%20Three-%230b915e)</a>
 <a href="Easy/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md">![](https://img.shields.io/badge/-2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone-%230b915e)</a>
 <a href="Easy/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.md">![](https://img.shields.io/badge/-2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence-%230b915e)</a>
+<a href="Medium/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.md">![](https://img.shields.io/badge/-2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets-%23e38a29)</a>
 <a href="Easy/2053.%20Kth%20Distinct%20String%20in%20an%20Array.md">![](https://img.shields.io/badge/-2053.%20Kth%20Distinct%20String%20in%20an%20Array-%230b915e)</a>
 <a href="Easy/2057.%20Smallest%20Index%20With%20Equal%20Value.md">![](https://img.shields.io/badge/-2057.%20Smallest%20Index%20With%20Equal%20Value-%230b915e)</a>
 <a href="Easy/2062.%20Count%20Vowel%20Substrings%20of%20a%20String.md">![](https://img.shields.io/badge/-2062.%20Count%20Vowel%20Substrings%20of%20a%20String-%230b915e)</a>
 <a href="Easy/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.md">![](https://img.shields.io/badge/-2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent-%230b915e)</a>
 <a href="Easy/2073.%20Time%20Needed%20to%20Buy%20Tickets.md">![](https://img.shields.io/badge/-2073.%20Time%20Needed%20to%20Buy%20Tickets-%230b915e)</a>
 <a href="Easy/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors.md">![](https://img.shields.io/badge/-2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors-%230b915e)</a>
+<a href="Medium/2079.%20Watering%20Plants.md">![](https://img.shields.io/badge/-2079.%20Watering%20Plants-%23e38a29)</a>
 <a href="Easy/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.md">![](https://img.shields.io/badge/-2085.%20Count%20Common%20Words%20With%20One%20Occurrence-%230b915e)</a>
 <a href="Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md">![](https://img.shields.io/badge/-2089.%20Find%20Target%20Indices%20After%20Sorting%20Array-%230b915e)</a>
 <a href="Easy/2094.%20Finding%203-Digit%20Even%20Numbers.md">![](https://img.shields.io/badge/-2094.%20Finding%203-Digit%20Even%20Numbers-%230b915e)</a>
@@ -658,12 +664,16 @@ The questions have been coded using Java. <br>
 <a href="Easy/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.md">![](https://img.shields.io/badge/-2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array-%230b915e)</a>
 <a href="Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md">![](https://img.shields.io/badge/-2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences-%230b915e)</a>
 <a href="Easy/2119.%20A%20Number%20After%20a%20Double%20Reversal.md">![](https://img.shields.io/badge/-2119.%20A%20Number%20After%20a%20Double%20Reversal-%230b915e)</a>
+<a href="Medium/2120.%20Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid.md">![](https://img.shields.io/badge/-2120.%20Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid-%23e38a29)</a>
 <a href="Easy/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.md">![](https://img.shields.io/badge/-2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's-%230b915e)</a>
+<a href="Medium/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.md">![](https://img.shields.io/badge/-2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank-%23e38a29)</a>
 <a href="Easy/2129.%20Capitalize%20the%20Title.md">![](https://img.shields.io/badge/-2129.%20Capitalize%20the%20Title-%230b915e)</a>
+<a href="Medium/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.md">![](https://img.shields.io/badge/-2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List-%23e38a29)</a>
 <a href="Easy/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.md">![](https://img.shields.io/badge/-2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers-%230b915e)</a>
 <a href="Easy/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.md">![](https://img.shields.io/badge/-2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k-%230b915e)</a>
 <a href="Easy/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.md">![](https://img.shields.io/badge/-2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount-%230b915e)</a>
+<a href="Medium/2146.%20K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range.md">![](https://img.shields.io/badge/-2146.%20K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range-%23e38a29)</a>
 <a href="Easy/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.md">![](https://img.shields.io/badge/-2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements-%230b915e)</a>
+<a href="Medium/2149.%20Rearrange%20Array%20Elements%20by%20Sign.md">![](https://img.shields.io/badge/-2149.%20Rearrange%20Array%20Elements%20by%20Sign-%23e38a29)</a>
+<a href="Medium/2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array.md">![](https://img.shields.io/badge/-2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array-%23e38a29)</a>
 <a href="Easy/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.md">![](https://img.shields.io/badge/-2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two-%230b915e)</a>
-<a href="Easy/696.%20Count%20Binary%20Substrings.md">![](https://img.shields.io/badge/-696.%20Count%20Binary%20Substrings-%230b915e)</a>
-<a href="Easy/892.%20Surface%20Area%20of%203D%20Shapes.md">![](https://img.shields.io/badge/-892.%20Surface%20Area%20of%203D%20Shapes-%230b915e)</a>
